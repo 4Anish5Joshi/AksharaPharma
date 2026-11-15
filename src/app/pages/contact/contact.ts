@@ -11,6 +11,8 @@ import { COMPANY } from '../../data/company';
 export class Contact {
   readonly company = COMPANY;
   readonly submitted = signal(false);
+  readonly sentTo = signal('');
+  readonly mailHref = signal('');
 
   form = {
     name: '',
@@ -34,11 +36,21 @@ export class Contact {
 
   submit(event: Event): void {
     event.preventDefault();
+    const formEl = event.target as HTMLFormElement;
+    if (!formEl.reportValidity()) return;
+
+    const recipient = this.recipient();
+    const href = this.mailtoHref(recipient.email);
+    this.sentTo.set(recipient.email);
+    this.mailHref.set(href);
     this.submitted.set(true);
+    window.location.href = href;
   }
 
   resetForm(): void {
     this.submitted.set(false);
+    this.sentTo.set('');
+    this.mailHref.set('');
     this.form = {
       name: '',
       organization: '',
@@ -47,5 +59,25 @@ export class Contact {
       interest: 'Nitrosamine Impurities',
       message: '',
     };
+  }
+
+  private recipient(): { email: string } {
+    return this.form.interest === 'Consumables'
+      ? this.company.contacts.consumables
+      : this.company.contacts.impurities;
+  }
+
+  private mailtoHref(recipient: string): string {
+    const body = [
+      `Name: ${this.form.name.trim()}`,
+      `Organization: ${this.form.organization.trim() || 'Not provided'}`,
+      `Email: ${this.form.email.trim()}`,
+      `Phone: ${this.form.phone.trim() || 'Not provided'}`,
+      `Interest: ${this.form.interest}`,
+      '',
+      this.form.message.trim(),
+    ].join('\n');
+    const subject = `Website enquiry: ${this.form.interest} — ${this.form.name.trim()}`;
+    return `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   }
 }

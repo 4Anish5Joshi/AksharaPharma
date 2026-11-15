@@ -85,18 +85,14 @@
         </form>
       } @else {
         <div class="success fade-up">
-          <h2>Thank you</h2>
+          <h2>Email ready to send</h2>
           <p>
-            Your enquiry has been captured. For impurities, call
-            <a [href]="company.contacts.impurities.phoneHref">{{ company.contacts.impurities.phone }}</a>
-            or email
-            <a [href]="company.contacts.impurities.emailHref">{{ company.contacts.impurities.email }}</a>.
-            For consumables, call
-            <a [href]="company.contacts.consumables.phoneHref">{{ company.contacts.consumables.phone }}</a>
-            or email
-            <a [href]="company.contacts.consumables.emailHref">{{ company.contacts.consumables.email }}</a>.
+            Your mail app should open with this enquiry addressed to
+            <a [href]="mailHref()">{{ sentTo() }}</a>.
+            Name, organization, contact details, interest, and message are already filled in.
+            Press send in the mail app to deliver it.
           </p>
-          <button class="btn btn-ghost" type="button" (click)="resetForm()">Send another message</button>
+          <button class="btn btn-ghost" type="button" (click)="resetForm()">Write another message</button>
         </div>
       }
     </div>
