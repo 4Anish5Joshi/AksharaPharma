@@ -1,0 +1,132 @@
+<section class="page-hero">
+  <div class="container fade-up">
+    <p class="section-label">Products</p>
+    <h1>Full catalog from Akshara Pharmaa lists</h1>
+    <p class="page-hero__lead">
+      Browse {{ counts.nitrosamine }} nitrosamine impurities and {{ counts['drug-impurity'] }} impurity /
+      reference standards — searchable by name, CAS number, or synonym.
+    </p>
+  </div>
+</section>
+
+<section class="section products">
+  <div class="container">
+    <div class="toolbar">
+      <label class="search">
+        <span class="sr-only">Search products</span>
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="1.8" />
+          <path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" />
+        </svg>
+        <input
+          type="search"
+          placeholder="Search by name, CAS, synonym…"
+          [value]="search()"
+          (input)="onSearch($any($event.target).value)"
+        />
+      </label>
+
+      <div class="filters" role="tablist" aria-label="Product categories">
+        @for (cat of categories; track cat.key) {
+          <button
+            type="button"
+            role="tab"
+            class="filter"
+            [class.filter--active]="activeCategory() === cat.key"
+            [attr.aria-selected]="activeCategory() === cat.key"
+            (click)="setCategory(cat.key)"
+          >
+            {{ cat.label }}
+            @if (cat.count) {
+              <em>{{ cat.count }}</em>
+            }
+          </button>
+        }
+      </div>
+    </div>
+
+    <div class="result-bar">
+      <p class="result-meta">{{ pageLabel() }}</p>
+      @if (totalPages() > 1) {
+        <div class="pager">
+          <button type="button" class="pager__btn" [disabled]="page() <= 1" (click)="prevPage()">
+            Previous
+          </button>
+          <span>Page {{ page() }} / {{ totalPages() }}</span>
+          <button
+            type="button"
+            class="pager__btn"
+            [disabled]="page() >= totalPages()"
+            (click)="nextPage()"
+          >
+            Next
+          </button>
+        </div>
+      }
+    </div>
+
+    @if (paged().length) {
+      <div class="product-grid">
+        @for (product of paged(); track trackProduct($index, product)) {
+          <article class="product">
+            <div class="product__top">
+              <span class="product__cat">{{ categoryLabels[product.category] }}</span>
+              @if (product.cas && product.cas !== 'NA' && product.cas !== 'Project-based') {
+                <span class="product__cas">CAS {{ product.cas }}</span>
+              } @else {
+                <span class="product__cas product__cas--na">CAS NA</span>
+              }
+            </div>
+            <h2>{{ product.name }}</h2>
+            @if (product.description) {
+              <p>{{ product.description }}</p>
+            }
+            @if (product.synonyms?.length) {
+              <p class="product__syn">Also known as: {{ product.synonyms!.join(', ') }}</p>
+            }
+            <a routerLink="/contact" class="product__cta">Enquire →</a>
+          </article>
+        }
+      </div>
+    } @else {
+      <div class="empty">
+        <h2>No matching products</h2>
+        <p>
+          Try another search term or switch categories. Need something specific? Ask for custom
+          synthesis.
+        </p>
+        <a routerLink="/contact" class="btn btn-primary">Request custom synthesis</a>
+      </div>
+    }
+
+    @if (totalPages() > 1) {
+      <div class="pager pager--bottom">
+        <button type="button" class="pager__btn" [disabled]="page() <= 1" (click)="prevPage()">
+          Previous
+        </button>
+        <span>Page {{ page() }} / {{ totalPages() }}</span>
+        <button
+          type="button"
+          class="pager__btn"
+          [disabled]="page() >= totalPages()"
+          (click)="nextPage()"
+        >
+          Next
+        </button>
+      </div>
+    }
+  </div>
+</section>
+
+<section class="note">
+  <div class="container note__inner">
+    <div>
+      <h2>Looking for a compound not listed?</h2>
+      <p>
+        We provide custom synthesis of complex nitrosamine and drug-related impurities with complete
+        characterization and documentation.
+      </p>
+    </div>
+    <a routerLink="/contact" class="btn btn-light">Talk to us</a>
+  </div>
+</section>

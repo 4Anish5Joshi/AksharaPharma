@@ -1,0 +1,4991 @@
+{
+  "nitrosamine": [
+    {
+      "sr": 1,
+      "name": "N-Desmethyl Clarithromycin",
+      "cas": "101666-68-6"
+    },
+    {
+      "sr": 2,
+      "name": "Desmethyl Clarithromycin",
+      "cas": "NA"
+    },
+    {
+      "sr": 3,
+      "name": "Desmethyl Sildenafil; Sildenafil Citrate - Impurity F",
+      "cas": "139755-82-1"
+    },
+    {
+      "sr": 4,
+      "name": "N-Nitroso Desmethyl Sildenafil",
+      "cas": "NA"
+    },
+    {
+      "sr": 5,
+      "name": "N-Ethyl esmolol",
+      "cas": "2469273-97-8"
+    },
+    {
+      "sr": 6,
+      "name": "Nitroso 1,4-Dinitrosopiperazine",
+      "cas": "140-79-4"
+    },
+    {
+      "sr": 7,
+      "name": "Nitroso Brimonidine Tartrate",
+      "cas": "70359-46-5"
+    },
+    {
+      "sr": 8,
+      "name": "Nitroso Ciprofloxacin",
+      "cas": "NA"
+    },
+    {
+      "sr": 9,
+      "name": "Nitroso Clopidogrel Impurity",
+      "cas": "2460755-43-3"
+    },
+    {
+      "sr": 10,
+      "name": "Nitroso Lumefantrine",
+      "cas": "NA"
+    },
+    {
+      "sr": 11,
+      "name": "Nitroso-Teriflunomide",
+      "cas": "NA"
+    },
+    {
+      "sr": 12,
+      "name": "N-Nitroso Acarbose",
+      "cas": "NA"
+    },
+    {
+      "sr": 13,
+      "name": "N-Nitroso Apixaban Amide",
+      "cas": "NA"
+    },
+    {
+      "sr": 14,
+      "name": "N-Nitroso Apixaban Amide phenyl",
+      "cas": "NA"
+    },
+    {
+      "sr": 15,
+      "name": "N-Nitroso Apixaban Amino Acid Impurity",
+      "cas": "NA"
+    },
+    {
+      "sr": 16,
+      "name": "N-Nitroso Apixaban chloro",
+      "cas": "NA"
+    },
+    {
+      "sr": 17,
+      "name": "N-Nitroso Atorvastatin",
+      "cas": "NA"
+    },
+    {
+      "sr": 18,
+      "name": "N-Nitroso Azaerythromycin A ; N-Nitroso Azithromycin Impurity A;N-Nitroso N-Desmethyl Azithromycin",
+      "cas": "NA"
+    },
+    {
+      "sr": 19,
+      "name": "N-Nitroso Azithromycin",
+      "cas": "NA"
+    },
+    {
+      "sr": 20,
+      "name": "N-Nitroso Benazepril",
+      "cas": "NA"
+    },
+    {
+      "sr": 21,
+      "name": "N-Nitroso Bisoprolol",
+      "cas": "2820170-76-9"
+    },
+    {
+      "sr": 22,
+      "name": "N-Nitroso Brimonidine",
+      "cas": "NA"
+    },
+    {
+      "sr": 23,
+      "name": "N-Nitroso Brimonidine tartrate",
+      "cas": "NA"
+    },
+    {
+      "sr": 24,
+      "name": "N-Nitroso Bupropion",
+      "cas": "2763780-10-3"
+    },
+    {
+      "sr": 25,
+      "name": "N-Nitroso Cinacalcet",
+      "cas": "NA"
+    },
+    {
+      "sr": 26,
+      "name": "N-Nitroso Ciprofloxacin",
+      "cas": "864443-44-7"
+    },
+    {
+      "sr": 27,
+      "name": "N-Nitroso dabigatran",
+      "cas": "2892260-29-4"
+    },
+    {
+      "sr": 28,
+      "name": "N-Nitroso Desmethyl Azithromycin",
+      "cas": "NA"
+    },
+    {
+      "sr": 29,
+      "name": "N-Nitroso Duloxetine",
+      "cas": "NA"
+    },
+    {
+      "sr": 30,
+      "name": "N-Nitroso Flecainide",
+      "cas": "2901109-58-6"
+    },
+    {
+      "sr": 31,
+      "name": "N-Nitroso Labetalol",
+      "cas": "2820170-74-7"
+    },
+    {
+      "sr": 32,
+      "name": "N-Nitroso melatonin",
+      "cas": "278783-22-5"
+    },
+    {
+      "sr": 33,
+      "name": "N-nitroso Methimazole",
+      "cas": "NA"
+    },
+    {
+      "sr": 34,
+      "name": "N-Nitroso Nifedipine",
+      "cas": "NA"
+    },
+    {
+      "sr": 35,
+      "name": "N-Nitroso Paliperidone",
+      "cas": "2416230-38-9"
+    },
+    {
+      "sr": 36,
+      "name": "N-Nitroso paroxetine Impurity",
+      "cas": "2361294-43-9"
+    },
+    {
+      "sr": 37,
+      "name": "N-Nitroso Perindopril",
+      "cas": "NA"
+    },
+    {
+      "sr": 38,
+      "name": "N-Nitroso Ranitidine",
+      "cas": "NA"
+    },
+    {
+      "sr": 39,
+      "name": "N-Nitroso Sertraline",
+      "cas": "NA"
+    },
+    {
+      "sr": 40,
+      "name": "N-Nitroso Sitagliptin Impurity -7-Nitroso-3-(trifluoromethyl)-5,6,7,8-tetrahydro-[1,2,4]triazolo[4,3-a]pyrazine",
+      "cas": "2892260-32-9"
+    },
+    {
+      "sr": 41,
+      "name": "N-Nitroso Tadalafil",
+      "cas": "NA"
+    },
+    {
+      "sr": 42,
+      "name": "N-Nitroso Tramadol",
+      "cas": "NA"
+    },
+    {
+      "sr": 43,
+      "name": "N-Nitroso zopiclone",
+      "cas": "NA"
+    },
+    {
+      "sr": 44,
+      "name": "N-Nitroso-1,2,5,6-tetrahydropyridine",
+      "cas": "55556-92-8"
+    },
+    {
+      "sr": 45,
+      "name": "N-nitroso-2-Methyl imidazole",
+      "cas": "NA"
+    },
+    {
+      "sr": 46,
+      "name": "N-Nitroso diethyl amine",
+      "cas": "55-18-5"
+    },
+    {
+      "sr": 47,
+      "name": "N-Nitrosodiisopropylamine (NDIPA)",
+      "cas": "601-77-4"
+    },
+    {
+      "sr": 48,
+      "name": "N-Nitrosodimethylamine (NDMA)",
+      "cas": "62-75-9"
+    },
+    {
+      "sr": 49,
+      "name": "N-Nitroso-N-methyl-2-phenylethylamine;N-methyl-N-nitrosobenzeneethanamine",
+      "cas": "13256-11-6"
+    },
+    {
+      "sr": 50,
+      "name": "N-Nitroso-N'-methylpiperazine",
+      "cas": "16339-07-4"
+    },
+    {
+      "sr": 51,
+      "name": "N-Nitroso quetiapine HEEP impurity",
+      "cas": "73486-81-4"
+    },
+    {
+      "sr": 52,
+      "name": "N-Nitroso Aryl Piperazine Quatiapine",
+      "cas": "NA"
+    },
+    {
+      "sr": 53,
+      "name": "N-Nitroso Rivaroxaban Amide Impurity",
+      "cas": "NA"
+    },
+    {
+      "sr": 54,
+      "name": "N-Nitroso Rivaroxaban Nitroso Impurity 2",
+      "cas": "NA"
+    },
+    {
+      "sr": 55,
+      "name": "N-Nitroso ethyl isopropyl amine",
+      "cas": "16339-04-1"
+    },
+    {
+      "sr": 56,
+      "name": "N-Methyl-N-nitrosoethanolamin",
+      "cas": "26921-68-6"
+    },
+    {
+      "sr": 57,
+      "name": "N-Nitroso dasatinib",
+      "cas": "NA"
+    },
+    {
+      "sr": 58,
+      "name": "N-nitroso-Ribociclib-1",
+      "cas": "NA"
+    },
+    {
+      "sr": 59,
+      "name": "N-nitroso minoxidil",
+      "cas": "1350513-60-8"
+    },
+    {
+      "sr": 60,
+      "name": "N-Nitroso Fluoroquinolonic acid",
+      "cas": "NA"
+    },
+    {
+      "sr": 61,
+      "name": "N-Nitroso Alogliptin impurity",
+      "cas": "NA"
+    },
+    {
+      "sr": 62,
+      "name": "N-Nitroso Ticagrelor",
+      "cas": "2476859-55-7"
+    },
+    {
+      "sr": 63,
+      "name": "N-Nitroso Metoprolol",
+      "cas": "138768-62-4"
+    },
+    {
+      "sr": 64,
+      "name": "N-Nitrosomorpholine",
+      "cas": "59-89-2"
+    },
+    {
+      "sr": 65,
+      "name": "N-Nitrosodipropylamine",
+      "cas": "621-64-7"
+    },
+    {
+      "sr": 66,
+      "name": "N-Nitroso-N-methylaniline",
+      "cas": "614-00-6"
+    },
+    {
+      "sr": 67,
+      "name": "N-Nitrosodicyclohexylamine",
+      "cas": "947-92-2"
+    },
+    {
+      "sr": 68,
+      "name": "N-Nitroso-Dibutylamine",
+      "cas": "924-16-3"
+    },
+    {
+      "sr": 69,
+      "name": "N-Nitrosopiperidine",
+      "cas": "100-75-4"
+    },
+    {
+      "sr": 70,
+      "name": "N-Nitroso Ivabradine Impurity 3",
+      "cas": "NA"
+    },
+    {
+      "sr": 71,
+      "name": "N-Nitroso Atenolol",
+      "cas": "134720-04-0"
+    },
+    {
+      "sr": 72,
+      "name": "N-Nitroso Guanfacine",
+      "cas": "NA"
+    },
+    {
+      "sr": 73,
+      "name": "4-Nitrosomethylaminopyridine",
+      "cas": "16219-99-1"
+    },
+    {
+      "sr": 74,
+      "name": "N-Nitroso Donepezil",
+      "cas": "NA"
+    },
+    {
+      "sr": 75,
+      "name": "N-Nitroso-N-Methyl-4-Aminobutyric Acid",
+      "cas": "61445-55-4"
+    }
+  ],
+  "drug-impurity": [
+    {
+      "sr": 1,
+      "name": "(S)-Glycidyl Phthalimide",
+      "cas": "161596-47-0"
+    },
+    {
+      "sr": 2,
+      "name": "1-(2,3-Dichlorophenyl)-4-(2-(4-isocyanatocyclohexyl)ethyl)piperazine",
+      "cas": "NA"
+    },
+    {
+      "sr": 3,
+      "name": "3-(4-(2-(4-(2.3.6-trichlorophenyl)piperazin-1-yl)ethyl)cyclohexyl)1.1-dimethylurea",
+      "cas": "NA"
+    },
+    {
+      "sr": 4,
+      "name": "Acamprosate EP Impurity A",
+      "cas": "3687-18-1"
+    },
+    {
+      "sr": 5,
+      "name": "Aceclofenac",
+      "cas": "89796-99-6"
+    },
+    {
+      "sr": 6,
+      "name": "Aceclofenac EP Impurity A",
+      "cas": "15307-86-5"
+    },
+    {
+      "sr": 7,
+      "name": "Acetaminophen Related Compound J (USP)",
+      "cas": "539-03-7"
+    },
+    {
+      "sr": 8,
+      "name": "Acetaminophen USP Related Compound B",
+      "cas": "1693-37-4"
+    },
+    {
+      "sr": 9,
+      "name": "Acetaminophen USP Related Compound C",
+      "cas": "614-80-2"
+    },
+    {
+      "sr": 10,
+      "name": "Acetaminophen USP Related Compound D ;Acetoanilide",
+      "cas": "103-84-4"
+    },
+    {
+      "sr": 11,
+      "name": "Acetaminophen USP Related Compound J",
+      "cas": "539-03-7"
+    },
+    {
+      "sr": 12,
+      "name": "Acetanilide",
+      "cas": "103-84-4"
+    },
+    {
+      "sr": 13,
+      "name": "Acetylcysteine EP Impurity A",
+      "cas": "56-89-3"
+    },
+    {
+      "sr": 14,
+      "name": "Acetylcysteine EP Impurity B",
+      "cas": "52-90-4"
+    },
+    {
+      "sr": 15,
+      "name": "Acetylsalicylic Acid EP Impurity A (Aspirin Impurity A)4-Hydroxybenzoic Acid",
+      "cas": "99-96-7"
+    },
+    {
+      "sr": 16,
+      "name": "Acetylsalicylic Acid EP Impurity A/Aspirin Impurity A/4-hydroxybenzoic acid",
+      "cas": "99-96-7"
+    },
+    {
+      "sr": 17,
+      "name": "Acetylsalicylic Acid EP Impurity C (Aspirin Impurity C)",
+      "cas": "69-72-7"
+    },
+    {
+      "sr": 18,
+      "name": "Aciclovir EP Impurity G",
+      "cas": "75128-73-3"
+    },
+    {
+      "sr": 19,
+      "name": "Aciclovir EP Impurity L/N2,9-Diacetylguanine (EP)/Acyclovir Diacetyl guanine (USP)/Acyclovir N-Methy",
+      "cas": "3056-33-5"
+    },
+    {
+      "sr": 20,
+      "name": "Acidic silica/ alumi",
+      "cas": "1344-28-1"
+    },
+    {
+      "sr": 21,
+      "name": "Acyclovir",
+      "cas": "59277-89-3"
+    },
+    {
+      "sr": 22,
+      "name": "Acyclovir - Impurity A",
+      "cas": "102728-64-3"
+    },
+    {
+      "sr": 23,
+      "name": "Adapalene",
+      "cas": "106685-40-9"
+    },
+    {
+      "sr": 24,
+      "name": "Adenosine EP Impurity A",
+      "cas": "73-24-5"
+    },
+    {
+      "sr": 25,
+      "name": "Agomelatine IMP B/Agomelatine Impurity 16 (bld 3 bot)",
+      "cas": "6836-22-2"
+    },
+    {
+      "sr": 26,
+      "name": "Alanine-L-Alanyl-L-proline ( final product)",
+      "cas": "13485-59-1"
+    },
+    {
+      "sr": 27,
+      "name": "Alfuzosin EP Impurity B",
+      "cas": "23680-84-4"
+    },
+    {
+      "sr": 28,
+      "name": "Alogliptin Impurity 28",
+      "cas": "865758-96-9"
+    },
+    {
+      "sr": 29,
+      "name": "Alogliptin Impurity 34",
+      "cas": "7115-89-1"
+    },
+    {
+      "sr": 30,
+      "name": "Amantadine",
+      "cas": "768-94-5"
+    },
+    {
+      "sr": 31,
+      "name": "Ambroxol EP Impurity A",
+      "cas": "50739-76-9"
+    },
+    {
+      "sr": 32,
+      "name": "Ambroxol EP Impurity E",
+      "cas": "50910-55-9"
+    },
+    {
+      "sr": 33,
+      "name": "Amiloride Hydrochloride Dihydrate - Impurity A ; Amiloride Related Compound A",
+      "cas": "1458-01-1"
+    },
+    {
+      "sr": 34,
+      "name": "Amino alcohol L-tartaric acid",
+      "cas": "NA"
+    },
+    {
+      "sr": 35,
+      "name": "Amino pyrimidine",
+      "cas": "NA"
+    },
+    {
+      "sr": 36,
+      "name": "Aminophenylmorpholinone (4-(4-Aminophenyl)-3-morpholinone)",
+      "cas": "438056-69-0"
+    },
+    {
+      "sr": 37,
+      "name": "Amlodipine base",
+      "cas": "88150-42-9"
+    },
+    {
+      "sr": 38,
+      "name": "Amlodipine Besilate - Impurity D (Fumarate Salt);Amlodipine Related Compound A (USP)",
+      "cas": "2138811-33-1"
+    },
+    {
+      "sr": 39,
+      "name": "Amlodipine Besylate",
+      "cas": "111470-99-6"
+    },
+    {
+      "sr": 40,
+      "name": "Amlodipine EP Impurity A",
+      "cas": "88150-62-3"
+    },
+    {
+      "sr": 41,
+      "name": "Amlodipine EP Impurity B",
+      "cas": "721958-72-1"
+    },
+    {
+      "sr": 42,
+      "name": "Amlodipine EP Impurity G",
+      "cas": "43067-01-2"
+    },
+    {
+      "sr": 43,
+      "name": "Amlodipine EP Impurity H",
+      "cas": "318465-73-5"
+    },
+    {
+      "sr": 44,
+      "name": "Amlodipine Impurity A",
+      "cas": "88150-62-3"
+    },
+    {
+      "sr": 45,
+      "name": "Amlodipine Mannitol Adduct",
+      "cas": "NA"
+    },
+    {
+      "sr": 46,
+      "name": "Amoxapine USP Related Compound D",
+      "cas": "3158-91-6"
+    },
+    {
+      "sr": 47,
+      "name": "Amoxicillin Dimer",
+      "cas": "NA"
+    },
+    {
+      "sr": 48,
+      "name": "Amoxycillin",
+      "cas": "26787-78-0"
+    },
+    {
+      "sr": 49,
+      "name": "Amoxycillin acid",
+      "cas": "NA"
+    },
+    {
+      "sr": 50,
+      "name": "Ampicillin",
+      "cas": "69-53-4"
+    },
+    {
+      "sr": 51,
+      "name": "Anagrelide Hydrochloride",
+      "cas": "58579-51-4"
+    },
+    {
+      "sr": 52,
+      "name": "Anastrozole EP Impurity F (Hydrate)",
+      "cas": "6192-52-5"
+    },
+    {
+      "sr": 53,
+      "name": "Apixaban",
+      "cas": "503612-47-3"
+    },
+    {
+      "sr": 54,
+      "name": "Apixaban Carboxylic Acid Impurity",
+      "cas": "503614-92-4"
+    },
+    {
+      "sr": 55,
+      "name": "Apixaban Ethyl Ester Impurity/Apixaban Impurity 9",
+      "cas": "503614-91-3"
+    },
+    {
+      "sr": 56,
+      "name": "Apixaban Impurity 37",
+      "cas": "27143-07-3"
+    },
+    {
+      "sr": 57,
+      "name": "Apixaban Impurity 47",
+      "cas": "1267610-26-3"
+    },
+    {
+      "sr": 58,
+      "name": "Apremilast EP Impurity B",
+      "cas": "15371-06-9"
+    },
+    {
+      "sr": 59,
+      "name": "Aripiprazole - Impurity B ;Aripiprazole Related Compound C",
+      "cas": "119532-26-2"
+    },
+    {
+      "sr": 60,
+      "name": "Aripiprazole Desethylene Impurity ;Desethylene Aripiprazole",
+      "cas": "1216394-63-6"
+    },
+    {
+      "sr": 61,
+      "name": "Aripiprazole Hydroxybutyl Impurity4-(2,3-Dichlorophenyl)-1-piperazinebutanol",
+      "cas": "870765-38-1"
+    },
+    {
+      "sr": 62,
+      "name": "Aripiprazole Hydroxyquinolinone Analog",
+      "cas": "70500-72-0"
+    },
+    {
+      "sr": 63,
+      "name": "Aripiprazole imp-7-(4-chlorobutoxy)quinolin-2(1H)-one",
+      "cas": "913613-82-8"
+    },
+    {
+      "sr": 64,
+      "name": "Aripiprazole USP Related Compound F;Aripiprazole Impurity F Aripiprazole N1-Oxide",
+      "cas": "573691-09-5"
+    },
+    {
+      "sr": 65,
+      "name": "Artemether",
+      "cas": "71963-77-4"
+    },
+    {
+      "sr": 66,
+      "name": "Artemether USP Related Compound A",
+      "cas": "71939-50-9"
+    },
+    {
+      "sr": 67,
+      "name": "Artesunate",
+      "cas": "88495-63-0"
+    },
+    {
+      "sr": 68,
+      "name": "Articaine EP Impurity I",
+      "cas": "85006-31-1"
+    },
+    {
+      "sr": 69,
+      "name": "Articaine Impurity A",
+      "cas": "1712677-79-6"
+    },
+    {
+      "sr": 70,
+      "name": "Articaine Impurity B",
+      "cas": "114176-52-2"
+    },
+    {
+      "sr": 71,
+      "name": "Articaine Impurity E",
+      "cas": "1796888-45-3"
+    },
+    {
+      "sr": 72,
+      "name": "Articaine Impurity G",
+      "cas": "23964-59-2"
+    },
+    {
+      "sr": 73,
+      "name": "Ascorbic acid",
+      "cas": "50-81-7"
+    },
+    {
+      "sr": 74,
+      "name": "Ascorbic Acid - Impurity C (Freebase) ;Sodium Ascorbate Impurity C (EP/BP)",
+      "cas": "526-98-7"
+    },
+    {
+      "sr": 75,
+      "name": "Ascorbic Acid - Impurity D ;Sodium Ascorbate Impurity D (EP/BP)",
+      "cas": "3031-98-9"
+    },
+    {
+      "sr": 76,
+      "name": "Aspirin ; Acetylsalicylic Acid",
+      "cas": "50-78-2"
+    },
+    {
+      "sr": 77,
+      "name": "Aspirin Impurity C",
+      "cas": "69-72-7"
+    },
+    {
+      "sr": 78,
+      "name": "Atazanavir Impurity 24 Dihydrochloride",
+      "cas": "1185167-55-8"
+    },
+    {
+      "sr": 79,
+      "name": "Atenolol EP Impurity E/Atenolol Impurity E Atenolol Bis Ether",
+      "cas": "141650-31-9"
+    },
+    {
+      "sr": 80,
+      "name": "Atenolol EP Impurity F",
+      "cas": "87619-83-8"
+    },
+    {
+      "sr": 81,
+      "name": "Atenolol EP Impurity G",
+      "cas": "56392-14-4"
+    },
+    {
+      "sr": 82,
+      "name": "Atenolol Impurity A",
+      "cas": "17194-82-0"
+    },
+    {
+      "sr": 83,
+      "name": "Atenolol Impurity B",
+      "cas": "61698-76-8"
+    },
+    {
+      "sr": 84,
+      "name": "Atenolol Impurity C",
+      "cas": "29122-69-8"
+    },
+    {
+      "sr": 85,
+      "name": "Atenolol Impurity D",
+      "cas": "115538-83-5"
+    },
+    {
+      "sr": 86,
+      "name": "Atenolol Impurity E",
+      "cas": "141650-31-9"
+    },
+    {
+      "sr": 87,
+      "name": "Atenolol Impurity F",
+      "cas": "87619-83-8"
+    },
+    {
+      "sr": 88,
+      "name": "Atorvastatin calcium",
+      "cas": "134523-03-8"
+    },
+    {
+      "sr": 89,
+      "name": "Atropine",
+      "cas": "51-55-8"
+    },
+    {
+      "sr": 90,
+      "name": "Atropine Sulfate Monohydrate",
+      "cas": "5908-99-6"
+    },
+    {
+      "sr": 91,
+      "name": "Azelnidipine",
+      "cas": "123524-52-7"
+    },
+    {
+      "sr": 92,
+      "name": "Azithromycin Amine/Azithromycin EP Impurity A",
+      "cas": "76801-85-9"
+    },
+    {
+      "sr": 93,
+      "name": "Azithromycin Dihydrate",
+      "cas": "117772-70-0"
+    },
+    {
+      "sr": 94,
+      "name": "Azithromycin EP Impurity A",
+      "cas": "76801-85-9"
+    },
+    {
+      "sr": 95,
+      "name": "Azosemide",
+      "cas": "27589-33-9"
+    },
+    {
+      "sr": 96,
+      "name": "Beclomethasone Dipropionate",
+      "cas": "5534-09-8"
+    },
+    {
+      "sr": 97,
+      "name": "Benazepril hydrochloride",
+      "cas": "86541-74-4"
+    },
+    {
+      "sr": 98,
+      "name": "Benzalkonium Bromide/Benzyldodecyldimethylammonium Bromide",
+      "cas": "7281-04-1"
+    },
+    {
+      "sr": 99,
+      "name": "Benzimidazole",
+      "cas": "51-17-2"
+    },
+    {
+      "sr": 100,
+      "name": "Benzocaine",
+      "cas": "94-09-7"
+    },
+    {
+      "sr": 101,
+      "name": "Benzocaine Impurity B",
+      "cas": "5344-90-1"
+    },
+    {
+      "sr": 102,
+      "name": "Benzophenone",
+      "cas": "119-61-9"
+    },
+    {
+      "sr": 103,
+      "name": "Benzothiadiazine Related Compound A USP compendial standard (CAS 121-30-2)",
+      "cas": "121-30-2"
+    },
+    {
+      "sr": 104,
+      "name": "Benzyl Indacaterol",
+      "cas": "435273-75-9"
+    },
+    {
+      "sr": 105,
+      "name": "Betamethasone - Impurity E;Beclomethasone Dipropionate - Impurity R",
+      "cas": "981-34-0"
+    },
+    {
+      "sr": 106,
+      "name": "Betamethasone EP Impurity A",
+      "cas": "50-02-2"
+    },
+    {
+      "sr": 107,
+      "name": "beta-Naphazoline Hydrochloride;Naphazoline Hydrochloride - Impurity D",
+      "cas": "6028-15-5"
+    },
+    {
+      "sr": 108,
+      "name": "Betolol",
+      "cas": "NA"
+    },
+    {
+      "sr": 109,
+      "name": "Biphenyl",
+      "cas": "92-52-4"
+    },
+    {
+      "sr": 110,
+      "name": "Bisoprolol EP Impurity S",
+      "cas": "123-08-0"
+    },
+    {
+      "sr": 111,
+      "name": "Bisoprolol Fumarate - Impurity L (Freebase)",
+      "cas": "29122-74-5"
+    },
+    {
+      "sr": 112,
+      "name": "Boric acid",
+      "cas": "10043-35-3"
+    },
+    {
+      "sr": 113,
+      "name": "Brexpiprazole",
+      "cas": "913611-97-9"
+    },
+    {
+      "sr": 114,
+      "name": "Brexpiprazole Impurity 22 Hydrochloride",
+      "cas": "913614-18-3"
+    },
+    {
+      "sr": 115,
+      "name": "Brexpiprazole Impurity 25",
+      "cas": "5118-13-8"
+    },
+    {
+      "sr": 116,
+      "name": "Brimonidine Tartrate",
+      "cas": "70359-46-5"
+    },
+    {
+      "sr": 117,
+      "name": "Brinzolamide",
+      "cas": "138890-62-7"
+    },
+    {
+      "sr": 118,
+      "name": "Bronopol",
+      "cas": "52-51-7"
+    },
+    {
+      "sr": 119,
+      "name": "Budesonide",
+      "cas": "51333-22-3"
+    },
+    {
+      "sr": 120,
+      "name": "Bupivacaine EP Impurity F",
+      "cas": "87-62-7"
+    },
+    {
+      "sr": 121,
+      "name": "Bupropion USP Related Compound B Hydrochloride",
+      "cas": "1049718-43-5"
+    },
+    {
+      "sr": 122,
+      "name": "Bupropion USP Related Compound C",
+      "cas": "152943-33-4"
+    },
+    {
+      "sr": 123,
+      "name": "Cabazitaxel Impurity 37-4-CHLOROACETYL-2,7-DICHLOROFLUORENE;2-Chloro-1-(2,7-dichloro-9H-fluor",
+      "cas": "131023-37-5"
+    },
+    {
+      "sr": 124,
+      "name": "Cabotegravir",
+      "cas": "1051375-10-0"
+    },
+    {
+      "sr": 125,
+      "name": "Caffeine",
+      "cas": "58-08-2"
+    },
+    {
+      "sr": 126,
+      "name": "Caffeine Citrate",
+      "cas": "69-22-7"
+    },
+    {
+      "sr": 127,
+      "name": "Calcium Complex of minocycline",
+      "cas": "NA"
+    },
+    {
+      "sr": 128,
+      "name": "Camphor",
+      "cas": "76-22-2"
+    },
+    {
+      "sr": 129,
+      "name": "Candesartan",
+      "cas": "139481-59-7"
+    },
+    {
+      "sr": 130,
+      "name": "Candesartan Bromo N1-Trityl Impurity",
+      "cas": "124750-51-2"
+    },
+    {
+      "sr": 131,
+      "name": "Candesartan Cilexetil - Impurity A; Candesartan Cilexetil Related Compound A",
+      "cas": "139481-58-6"
+    },
+    {
+      "sr": 132,
+      "name": "Candesartan Cilexetil - Impurity B;Candesartan Cilexetil Related Compound B",
+      "cas": "869631-11-8"
+    },
+    {
+      "sr": 133,
+      "name": "Candesartan Cilexetil - Impurity D;Candesartan Cilexetil Related Compound D",
+      "cas": "1185256-03-4"
+    },
+    {
+      "sr": 134,
+      "name": "Candesartan Cilexetil - Impurity F;Candesartan Cilexetil Related Compound F",
+      "cas": "914613-36-8"
+    },
+    {
+      "sr": 135,
+      "name": "Candesartan Cilexetil EP Impurity G",
+      "cas": "139481-59-7"
+    },
+    {
+      "sr": 136,
+      "name": "Capsaicin",
+      "cas": "404-86-4"
+    },
+    {
+      "sr": 137,
+      "name": "Captopril",
+      "cas": "62571-86-2"
+    },
+    {
+      "sr": 138,
+      "name": "Carbidopa Hydrate",
+      "cas": "38821-49-7"
+    },
+    {
+      "sr": 139,
+      "name": "Carbimazole EP Impurity A",
+      "cas": "60-56-0"
+    },
+    {
+      "sr": 140,
+      "name": "Carbocisteine Lactam",
+      "cas": "62305-89-9"
+    },
+    {
+      "sr": 141,
+      "name": "Carbocysteine (Carbocisteine)",
+      "cas": "638-23-3"
+    },
+    {
+      "sr": 142,
+      "name": "Carbomer homopolymer",
+      "cas": "151687-96-6"
+    },
+    {
+      "sr": 143,
+      "name": "Cariprazine Hydrochloride",
+      "cas": "1083076-69-0"
+    },
+    {
+      "sr": 144,
+      "name": "Cariprazine N oxide",
+      "cas": "1084891-96-2"
+    },
+    {
+      "sr": 145,
+      "name": "Carvacrol",
+      "cas": "499-75-2"
+    },
+    {
+      "sr": 146,
+      "name": "Cesium Carbonate",
+      "cas": "534-17-8"
+    },
+    {
+      "sr": 147,
+      "name": "Cetirizine Dihydrochloride - Impurity A (Freebase) 303-26-4 (free base)",
+      "cas": "NA"
+    },
+    {
+      "sr": 148,
+      "name": "Cetirizine Dihydrochloride - Impurity D (Freebase) ;Cetirizine Dimer Dihydrochloride",
+      "cas": "346451-15-8"
+    },
+    {
+      "sr": 149,
+      "name": "Cetirizine Dihydrochloride- Impurity B (Dihydrochloride Salt)",
+      "cas": "1000690-91-4"
+    },
+    {
+      "sr": 150,
+      "name": "Cetirizine Dihydrochloride- Impurity C (Freebase) ;Cetirizine 2-Chloro Impurity",
+      "cas": "83881-59-8"
+    },
+    {
+      "sr": 151,
+      "name": "Cetirizine Dihydrochloride- Impurity F ;Deschloro Cetirizine Dihydrochloride",
+      "cas": "83881-54-3"
+    },
+    {
+      "sr": 152,
+      "name": "Cetirizine Dihydrochloride- Impurity G (Freebase)Cetirizine Related Compound G (USP)",
+      "cas": "109806-71-5"
+    },
+    {
+      "sr": 153,
+      "name": "Cetirizine EP Impurity B",
+      "cas": "113740-61-7"
+    },
+    {
+      "sr": 154,
+      "name": "Cetirizine Hydrochloride",
+      "cas": "83881-52-1"
+    },
+    {
+      "sr": 155,
+      "name": "Cetrimide",
+      "cas": "1119-97-7"
+    },
+    {
+      "sr": 156,
+      "name": "Chloramphenicol",
+      "cas": "56-75-7"
+    },
+    {
+      "sr": 157,
+      "name": "Chloramphenicol EP Impurity B",
+      "cas": "555-16-8"
+    },
+    {
+      "sr": 158,
+      "name": "Chlorhexidine Base",
+      "cas": "55-56-1"
+    },
+    {
+      "sr": 159,
+      "name": "Chlorogenic Acid",
+      "cas": "327-97-9"
+    },
+    {
+      "sr": 160,
+      "name": "Chlorothiazide ;Hydrochlorothiazide EP Impurity A",
+      "cas": "58-94-6"
+    },
+    {
+      "sr": 161,
+      "name": "Chlorpeniramine Impurity C",
+      "cas": "20619-12-9"
+    },
+    {
+      "sr": 162,
+      "name": "Chlorphenamine Maleate - Impurity A 1246816-57-8",
+      "cas": "NA"
+    },
+    {
+      "sr": 163,
+      "name": "Chlorphenamine Maleate - Impurity B;Chlorpheniramine Related Compound B,2,2'-Dipyridylamine",
+      "cas": "1202-34-2"
+    },
+    {
+      "sr": 164,
+      "name": "Chlorpheniramine Maleate",
+      "cas": "113-92-8"
+    },
+    {
+      "sr": 165,
+      "name": "Chlorpromazine Hydrochloride",
+      "cas": "69-09-0"
+    },
+    {
+      "sr": 166,
+      "name": "Chlorpyrifos",
+      "cas": "2921-88-2"
+    },
+    {
+      "sr": 167,
+      "name": "Chlortalidone Impurity J",
+      "cas": "956-92-3"
+    },
+    {
+      "sr": 168,
+      "name": "Chlorthalidone Impurity B",
+      "cas": "5270-74-6"
+    },
+    {
+      "sr": 169,
+      "name": "Chlorthalidone Impurity G",
+      "cas": "16289-13-7"
+    },
+    {
+      "sr": 170,
+      "name": "Cholecalciferol - VITAMIN D3",
+      "cas": "67-97-0"
+    },
+    {
+      "sr": 171,
+      "name": "Cholesterol",
+      "cas": "57-88-5"
+    },
+    {
+      "sr": 172,
+      "name": "Cilnidipine",
+      "cas": "132203-70-4"
+    },
+    {
+      "sr": 173,
+      "name": "Cilnidipine IP Impurity A",
+      "cas": "70172-96-2"
+    },
+    {
+      "sr": 174,
+      "name": "Cinacalcet Hydrochloride",
+      "cas": "364782-34-3"
+    },
+    {
+      "sr": 175,
+      "name": "Cineole (Eucalyptol)",
+      "cas": "470-82-6"
+    },
+    {
+      "sr": 176,
+      "name": "Cinnarizine",
+      "cas": "298-57-7"
+    },
+    {
+      "sr": 177,
+      "name": "Ciprofloxacin EP Impurity A",
+      "cas": "86393-33-1"
+    },
+    {
+      "sr": 178,
+      "name": "Ciprofloxacin Ethylene Diamine Analogue HydrochlorideCiprofloxacin Hydrochloride - Impurity C (Hydr",
+      "cas": "528851-31-2"
+    },
+    {
+      "sr": 179,
+      "name": "Ciprofloxacin hydrochloride",
+      "cas": "86483-48-9"
+    },
+    {
+      "sr": 180,
+      "name": "Citalopram EP Impurity B",
+      "cas": "411221-53-9"
+    },
+    {
+      "sr": 181,
+      "name": "Citalopram EP Impurity D (HCl salt) 97743-99-2/62498-67-3 (free base)",
+      "cas": "NA"
+    },
+    {
+      "sr": 182,
+      "name": "Citalopram Impurity CCitalopram Related Compound C",
+      "cas": "372941-54-3"
+    },
+    {
+      "sr": 183,
+      "name": "Citalopram Related Compound CCitalopram Impurity C (Oxalate salt)",
+      "cas": "1440961-11-4"
+    },
+    {
+      "sr": 184,
+      "name": "Citalopram USP Related Compound E HCl Salt 62498-71-9/63284-72-0 (free base)",
+      "cas": "NA"
+    },
+    {
+      "sr": 185,
+      "name": "Citalopram-(R)-Citalopram Oxalate",
+      "cas": "219861-53-7"
+    },
+    {
+      "sr": 186,
+      "name": "Citicoline Sodium",
+      "cas": "33818-15-4"
+    },
+    {
+      "sr": 187,
+      "name": "Clarithromycin",
+      "cas": "81103-11-9"
+    },
+    {
+      "sr": 188,
+      "name": "Clarithromycin EP Impurity M",
+      "cas": "127182-43-8"
+    },
+    {
+      "sr": 189,
+      "name": "Clarithromycin oxime 127253-06",
+      "cas": "9127253-05-8"
+    },
+    {
+      "sr": 190,
+      "name": "Clindamycin",
+      "cas": "18323-44-9"
+    },
+    {
+      "sr": 191,
+      "name": "Clindamycin Phosphate",
+      "cas": "24729-96-2"
+    },
+    {
+      "sr": 192,
+      "name": "Clonidine EP Impurity A",
+      "cas": "5391-39-9"
+    },
+    {
+      "sr": 193,
+      "name": "Clonidine EP Impurity C",
+      "cas": "608-31-1"
+    },
+    {
+      "sr": 194,
+      "name": "Clonidine Hydrochloride",
+      "cas": "4205-91-8"
+    },
+    {
+      "sr": 195,
+      "name": "Clopidogrel",
+      "cas": "113665-84-2"
+    },
+    {
+      "sr": 196,
+      "name": "Clopidogrel Acid /Clopidogrel EP Impurity A",
+      "cas": "144457-28-3"
+    },
+    {
+      "sr": 197,
+      "name": "Clopidogrel bisulfate",
+      "cas": "120202-66-6"
+    },
+    {
+      "sr": 198,
+      "name": "Clopidogrel EP Impurity C",
+      "cas": "120202-71-3"
+    },
+    {
+      "sr": 199,
+      "name": "Clopidogrel Related Compond B",
+      "cas": "144750-52-7"
+    },
+    {
+      "sr": 200,
+      "name": "Clopidogrel Thieno Impurity Hydrochloride",
+      "cas": "28783-41-7"
+    },
+    {
+      "sr": 201,
+      "name": "Clopidogrel USP Related Compound A;Clopidogrel EP Impurity A/Clopidogrel Carboxylic Acid Hydrochl",
+      "cas": "144750-42-5"
+    },
+    {
+      "sr": 202,
+      "name": "Clotrimazole - Impurity AClotrimazole Related Compound A",
+      "cas": "66774-02-5"
+    },
+    {
+      "sr": 203,
+      "name": "Cobicistat imp-Dehydroxylated amine",
+      "cas": "1247119-33-0"
+    },
+    {
+      "sr": 204,
+      "name": "Cobicistat Impurity 6 2185-03-7 (HCl salt)",
+      "cas": "NA"
+    },
+    {
+      "sr": 205,
+      "name": "Cobicistat on Sio2",
+      "cas": "1004316-88-4"
+    },
+    {
+      "sr": 206,
+      "name": "Colchicine ep/bp",
+      "cas": "64-86-8"
+    },
+    {
+      "sr": 207,
+      "name": "Cromolyn Related Compound A;1,1'-(((2-Hydroxypropane-1,3-diyl)bis(oxy))bis(2-hydroxy-6,1-phenylen",
+      "cas": "16150-44-0"
+    },
+    {
+      "sr": 208,
+      "name": "Cromolyn USP Related Compound B",
+      "cas": "16150-45-1"
+    },
+    {
+      "sr": 209,
+      "name": "Crotonic acid",
+      "cas": "107-93-7"
+    },
+    {
+      "sr": 210,
+      "name": "Curcuminoids",
+      "cas": "NA"
+    },
+    {
+      "sr": 211,
+      "name": "Cyclizine Related Compound A /Clozapine Impurity 7",
+      "cas": "109-01-3"
+    },
+    {
+      "sr": 212,
+      "name": "Cystine acid",
+      "cas": "56-89-3"
+    },
+    {
+      "sr": 213,
+      "name": "Dabigatran Etexilate EP Impurity B (HCl salt)",
+      "cas": "211914-50-0"
+    },
+    {
+      "sr": 214,
+      "name": "Daclatasvir Dihydrochloride",
+      "cas": "1009119-65-6"
+    },
+    {
+      "sr": 215,
+      "name": "Daclatasvir Impurity 2",
+      "cas": "15761-39-4"
+    },
+    {
+      "sr": 216,
+      "name": "Daclatasvir Impurity 4",
+      "cas": "1007882-23-6"
+    },
+    {
+      "sr": 217,
+      "name": "Daclatasvir Impurity 6",
+      "cas": "74761-42-5"
+    },
+    {
+      "sr": 218,
+      "name": "Daclatasvir Impurity I",
+      "cas": "1009119-83-8"
+    },
+    {
+      "sr": 219,
+      "name": "D-alpha-Tocopherol",
+      "cas": "59-02-9"
+    },
+    {
+      "sr": 220,
+      "name": "Dapagliflozin",
+      "cas": "461432-26-8"
+    },
+    {
+      "sr": 221,
+      "name": "Dapagliflozin Bromo Impurity",
+      "cas": "461432-23-5"
+    },
+    {
+      "sr": 222,
+      "name": "Dapagliflozin Hydroxy Impurity",
+      "cas": "960404-86-8"
+    },
+    {
+      "sr": 223,
+      "name": "Dapagliflozin Impurity 1",
+      "cas": "1103738-29-9"
+    },
+    {
+      "sr": 224,
+      "name": "Dapagliflozin Methoxy",
+      "cas": "714269-57-5"
+    },
+    {
+      "sr": 225,
+      "name": "Dapagliflozin Propanediol Hydrate",
+      "cas": "960404-48-2"
+    },
+    {
+      "sr": 226,
+      "name": "Dapagliflozin Tetraacetyl Impurity;Dapagliflozin Tetraacetate",
+      "cas": "461432-25-7"
+    },
+    {
+      "sr": 227,
+      "name": "Dapsone",
+      "cas": "80-08-0"
+    },
+    {
+      "sr": 228,
+      "name": "Dapsone Impurity 26",
+      "cas": "1156-50-9"
+    },
+    {
+      "sr": 229,
+      "name": "D-Biotin",
+      "cas": "58-85-5"
+    },
+    {
+      "sr": 230,
+      "name": "DCV Bromo Comp.",
+      "cas": "4072-67-7"
+    },
+    {
+      "sr": 231,
+      "name": "Decarbonyl Rivaroxaban",
+      "cas": "721401-53-2"
+    },
+    {
+      "sr": 232,
+      "name": "Decarboxy Moxifloxacin Hydrochloride",
+      "cas": "1322062-57-6"
+    },
+    {
+      "sr": 233,
+      "name": "Desacetyl Diltiazem Hydrochloride",
+      "cas": "75472-91-2"
+    },
+    {
+      "sr": 234,
+      "name": "Desloratadine EP Impurity C",
+      "cas": "79794-75-5"
+    },
+    {
+      "sr": 235,
+      "name": "Desloratadine USP Related Compound F",
+      "cas": "117810-61-4"
+    },
+    {
+      "sr": 236,
+      "name": "Dexamethasone Acetate EP Impurity A",
+      "cas": "50-02-2"
+    },
+    {
+      "sr": 237,
+      "name": "Dexamethasone impurity B",
+      "cas": "378-44-9"
+    },
+    {
+      "sr": 238,
+      "name": "Dexamethasone impurity C",
+      "cas": "426-17-5"
+    },
+    {
+      "sr": 239,
+      "name": "Dexamethasone Impurity D",
+      "cas": "24916-90-3"
+    },
+    {
+      "sr": 240,
+      "name": "Dexamethasone Impurity E",
+      "cas": "13209-41-1"
+    },
+    {
+      "sr": 241,
+      "name": "Dexamethasone Impurity F",
+      "cas": "382-67-2"
+    },
+    {
+      "sr": 242,
+      "name": "Dexamethasone Impurity G",
+      "cas": "1177-87-3"
+    },
+    {
+      "sr": 243,
+      "name": "Dexlansoprazole",
+      "cas": "138530-94-6"
+    },
+    {
+      "sr": 244,
+      "name": "Dextromethorphan - Impurity A",
+      "cas": "1531-23-3"
+    },
+    {
+      "sr": 245,
+      "name": "Dextromethorphan - Impurity B;Dextrorphan",
+      "cas": "125-73-5"
+    },
+    {
+      "sr": 246,
+      "name": "Dextromethorphan - Impurity C",
+      "cas": "57969-05-8"
+    },
+    {
+      "sr": 247,
+      "name": "Dextromethorphan Hydrobromide",
+      "cas": "125-69-9"
+    },
+    {
+      "sr": 248,
+      "name": "Dextromethorphan hydrobromide-H2O",
+      "cas": "6700-34-1"
+    },
+    {
+      "sr": 249,
+      "name": "Dextromethorphan N-Oxide",
+      "cas": "NA"
+    },
+    {
+      "sr": 250,
+      "name": "Dextromethorphan N-Oxide Hydrochloride",
+      "cas": "1177419-85-0"
+    },
+    {
+      "sr": 251,
+      "name": "Dichlorothienoic Acid",
+      "cas": "31166-29-7"
+    },
+    {
+      "sr": 252,
+      "name": "Diclofenac Sodium",
+      "cas": "15307-86-5"
+    },
+    {
+      "sr": 253,
+      "name": "Dicyandiamide",
+      "cas": "461-58-5"
+    },
+    {
+      "sr": 254,
+      "name": "Dicyanodichloroquinone",
+      "cas": "84-58-2"
+    },
+    {
+      "sr": 255,
+      "name": "Dicyclomine Hydrochloride",
+      "cas": "67-92-5"
+    },
+    {
+      "sr": 256,
+      "name": "Dicyclomine;Dicycloverine",
+      "cas": "77-19-0"
+    },
+    {
+      "sr": 257,
+      "name": "Dicysteine",
+      "cas": "56-89-3"
+    },
+    {
+      "sr": 258,
+      "name": "Didanosine EP Impurity A/Didanosine USP Related Compound A",
+      "cas": "68-94-0"
+    },
+    {
+      "sr": 259,
+      "name": "Diethylcarbamazine EP Impurity A",
+      "cas": "109-01-3"
+    },
+    {
+      "sr": 260,
+      "name": "Dimenhydrinate",
+      "cas": "523-87-5"
+    },
+    {
+      "sr": 261,
+      "name": "dimethyl 4-nitro phthalate",
+      "cas": "610-22-0"
+    },
+    {
+      "sr": 262,
+      "name": "Diphenhydramine Hydrochloride",
+      "cas": "147-24-0"
+    },
+    {
+      "sr": 263,
+      "name": "Diphenhydramine Related Compound A",
+      "cas": "53499-40-4"
+    },
+    {
+      "sr": 264,
+      "name": "Diphenhydramine Related Compound A ;Diphenhydramine - Impurity A ;Dimenhydrinate - Impurity F",
+      "cas": "53499-40-4"
+    },
+    {
+      "sr": 265,
+      "name": "Diroximel Impurity A",
+      "cas": "18190-44-8"
+    },
+    {
+      "sr": 266,
+      "name": "Disodium DL-Malate",
+      "cas": "676-46-0"
+    },
+    {
+      "sr": 267,
+      "name": "D-Mannitol",
+      "cas": "69-65-8"
+    },
+    {
+      "sr": 268,
+      "name": "Dofetilide",
+      "cas": "115256-11-6"
+    },
+    {
+      "sr": 269,
+      "name": "Dolutegravir -Na salt (final API)",
+      "cas": "1051375-19-9"
+    },
+    {
+      "sr": 270,
+      "name": "Domperidone",
+      "cas": "57808-66-9"
+    },
+    {
+      "sr": 271,
+      "name": "Domperidone EP Impurity A",
+      "cas": "53786-28-0"
+    },
+    {
+      "sr": 272,
+      "name": "Domperidone EP Impurity B",
+      "cas": "1346598-11-5"
+    },
+    {
+      "sr": 273,
+      "name": "Domperidone EP Impurity C",
+      "cas": "118435-03-3"
+    },
+    {
+      "sr": 274,
+      "name": "Domperidone EP Impurity F",
+      "cas": "1391053-55-6"
+    },
+    {
+      "sr": 275,
+      "name": "Donepezil EP Impurity A /Desbenzyl Donepezil (USP)",
+      "cas": "120014-30-4"
+    },
+    {
+      "sr": 276,
+      "name": "Dorzolamide Hydrochloride",
+      "cas": "130693-82-2"
+    },
+    {
+      "sr": 277,
+      "name": "Doxazosin Mesylate - Impurity A;Doxazosin related compound D",
+      "cas": "3663-80-7"
+    },
+    {
+      "sr": 278,
+      "name": "Doxazosin Mesylate - Impurity B;Doxazosin Related Compound A (USP - Base)",
+      "cas": "70918-74-0"
+    },
+    {
+      "sr": 279,
+      "name": "Doxazosin Mesylate - Impurity D;Doxazosin related compound B",
+      "cas": "28888-44-0"
+    },
+    {
+      "sr": 280,
+      "name": "Doxazosin Mesylate - Impurity E;Doxazosin Related Compound E",
+      "cas": "27631-29-4"
+    },
+    {
+      "sr": 281,
+      "name": "Doxazosin USP Related Compound C",
+      "cas": "23680-84-4"
+    },
+    {
+      "sr": 282,
+      "name": "D-Prolinamide",
+      "cas": "62937-45-5"
+    },
+    {
+      "sr": 283,
+      "name": "Duloxetine EP Impurity B",
+      "cas": "116539-55-0"
+    },
+    {
+      "sr": 284,
+      "name": "Duloxetine EP Impurity C",
+      "cas": "949095-98-1"
+    },
+    {
+      "sr": 285,
+      "name": "Duloxetine EP Impurity C",
+      "cas": "949095-98-1"
+    },
+    {
+      "sr": 286,
+      "name": "Duloxetine EP Impurity D",
+      "cas": "90-15-3"
+    },
+    {
+      "sr": 287,
+      "name": "Duloxetine EP Impurity E",
+      "cas": "1033803-59-6"
+    },
+    {
+      "sr": 288,
+      "name": "Duloxetine EP Impurity F (oxalate salt)",
+      "cas": "2379325-42-3"
+    },
+    {
+      "sr": 289,
+      "name": "Duloxetine EP Impurity F tartarate Salt",
+      "cas": "2379325-42-3"
+    },
+    {
+      "sr": 290,
+      "name": "Duloxetine EP Impurity G",
+      "cas": "321-38-0"
+    },
+    {
+      "sr": 291,
+      "name": "Duloxetine EP Impurity G ;1-Fluoronaphthalene",
+      "cas": "321-38-0"
+    },
+    {
+      "sr": 292,
+      "name": "Duloxetine Hydrochloride",
+      "cas": "136434-34-9"
+    },
+    {
+      "sr": 293,
+      "name": "Duloxetine Hydrochloride EP Impurity A",
+      "cas": "910138-96-4"
+    },
+    {
+      "sr": 294,
+      "name": "Duloxetine Impurity A",
+      "cas": "132335-47-8"
+    },
+    {
+      "sr": 295,
+      "name": "Duloxetine USP Related Compound H",
+      "cas": "199191-66-7"
+    },
+    {
+      "sr": 296,
+      "name": "Dutasteride",
+      "cas": "164656-23-9"
+    },
+    {
+      "sr": 297,
+      "name": "D-\u03b1-Tocopherol",
+      "cas": "59-02-9"
+    },
+    {
+      "sr": 298,
+      "name": "Eberconazole",
+      "cas": "128326-82-9"
+    },
+    {
+      "sr": 299,
+      "name": "Econazole EP Impurity A",
+      "cas": "24155-42-8"
+    },
+    {
+      "sr": 300,
+      "name": "Econazole Nitrate",
+      "cas": "24169-02-6"
+    },
+    {
+      "sr": 301,
+      "name": "Edoxaban (1R,2S,5S)-tert-Butyl Edoxaban",
+      "cas": "480452-36-6"
+    },
+    {
+      "sr": 302,
+      "name": "Edoxaban Impurity 15",
+      "cas": "365998-36-3"
+    },
+    {
+      "sr": 303,
+      "name": "Edoxaban Impurity 32",
+      "cas": "720720-96-7"
+    },
+    {
+      "sr": 304,
+      "name": "Edoxaban Impurity 33/Edoxaban Impurity 136",
+      "cas": "349125-08-2"
+    },
+    {
+      "sr": 305,
+      "name": "Edoxaban Mesylate imp",
+      "cas": "480452-37-7"
+    },
+    {
+      "sr": 306,
+      "name": "Edoxaban N-Oxide",
+      "cas": "2244103-96-4"
+    },
+    {
+      "sr": 307,
+      "name": "Edoxaban N-Oxide Impurity 2",
+      "cas": "2803372-49-6"
+    },
+    {
+      "sr": 308,
+      "name": "Edoxaban oxo /Acid Impurity/Edoxaban Impurity 7",
+      "cas": "767625-11-6"
+    },
+    {
+      "sr": 309,
+      "name": "Edoxaban Tosylate 480449-70-5 (free base)",
+      "cas": "NA"
+    },
+    {
+      "sr": 310,
+      "name": "Edoxaban Tosylate Monohydrate",
+      "cas": "1229194-11-9"
+    },
+    {
+      "sr": 311,
+      "name": "Empagliflozin",
+      "cas": "864070-44-0"
+    },
+    {
+      "sr": 312,
+      "name": "Empagliflozin (R)-Isomer",
+      "cas": "864070-43-9"
+    },
+    {
+      "sr": 313,
+      "name": "Empagliflozin 1-Methoxy",
+      "cas": "1279691-36-9"
+    },
+    {
+      "sr": 314,
+      "name": "Empagliflozin Bromo Impurity",
+      "cas": "915095-89-5"
+    },
+    {
+      "sr": 315,
+      "name": "Empagliflozin Desbromo Impurity",
+      "cas": "2517968-35-1"
+    },
+    {
+      "sr": 316,
+      "name": "Empagliflozin impurity 1",
+      "cas": "915095-94-2"
+    },
+    {
+      "sr": 317,
+      "name": "Empagliflozin Impurity 2",
+      "cas": "915095-87-3"
+    },
+    {
+      "sr": 318,
+      "name": "Empagliflozin Impurity 25",
+      "cas": "1628918-33-1"
+    },
+    {
+      "sr": 319,
+      "name": "Empagliflozin Impurity 23",
+      "cas": "915095-90-8"
+    },
+    {
+      "sr": 320,
+      "name": "Empagliflozin Impurity 28",
+      "cas": "32384-65-9"
+    },
+    {
+      "sr": 321,
+      "name": "Empagliflozin Impurity 56",
+      "cas": "915095-96-4"
+    },
+    {
+      "sr": 322,
+      "name": "Empagliflozin Impurity 59",
+      "cas": "915095-86-2"
+    },
+    {
+      "sr": 323,
+      "name": "Empagliflozin Impurity 71",
+      "cas": "915095-98-6"
+    },
+    {
+      "sr": 324,
+      "name": "Empagliflozin Impurity 85",
+      "cas": "1712958-06-9"
+    },
+    {
+      "sr": 325,
+      "name": "Empagliflozin Tetracetyl",
+      "cas": "915095-99-7"
+    },
+    {
+      "sr": 326,
+      "name": "Enalapril EP Impurity B",
+      "cas": "82717-96-2"
+    },
+    {
+      "sr": 327,
+      "name": "Enalaprilat Dihydrate",
+      "cas": "84680-54-6"
+    },
+    {
+      "sr": 328,
+      "name": "Enrofloxacin EP Impurity A",
+      "cas": "86393-33-1"
+    },
+    {
+      "sr": 329,
+      "name": "Enrofloxacin impurity A Q-Acid",
+      "cas": "86393-33-1"
+    },
+    {
+      "sr": 330,
+      "name": "Entacapone Benzaldehyde Impurity C /Entacapone EP Impurity C",
+      "cas": "116313-85-0"
+    },
+    {
+      "sr": 331,
+      "name": "Erythromycin Base",
+      "cas": "114-07-8"
+    },
+    {
+      "sr": 332,
+      "name": "Erythromycin Carbonate",
+      "cas": "54579-17-8"
+    },
+    {
+      "sr": 333,
+      "name": "Erythromycin EP Impurity B",
+      "cas": "992-62-1"
+    },
+    {
+      "sr": 334,
+      "name": "Erythromycin EP Impurity B",
+      "cas": "992-62-1"
+    },
+    {
+      "sr": 335,
+      "name": "Erythromycin EP Impurity G",
+      "cas": "NA"
+    },
+    {
+      "sr": 336,
+      "name": "Erythromycin ethyl succinate",
+      "cas": "1264-62-6"
+    },
+    {
+      "sr": 337,
+      "name": "Erythromycin ethyl succinate",
+      "cas": "1264-62-6"
+    },
+    {
+      "sr": 338,
+      "name": "Erythromycin Ethylsuccinate EP Impurity G",
+      "cas": "NA"
+    },
+    {
+      "sr": 339,
+      "name": "Erythromycin Oxime",
+      "cas": "111321-02-9"
+    },
+    {
+      "sr": 340,
+      "name": "Erythromycin Thiocyanate",
+      "cas": "7704-67-8"
+    },
+    {
+      "sr": 341,
+      "name": "Escitalopram EP Impurity C",
+      "cas": "372941-54-3"
+    },
+    {
+      "sr": 342,
+      "name": "Escitalopram EP Impurity D",
+      "cas": "62498-67-3"
+    },
+    {
+      "sr": 343,
+      "name": "Escitalopram EP Impurity I",
+      "cas": "1370643-22-3"
+    },
+    {
+      "sr": 344,
+      "name": "Escitalopram EP Impurity K/R-Citalopram Oxalate (USP) 128196-02-1 free base/",
+      "cas": "219861-53-7"
+    },
+    {
+      "sr": 345,
+      "name": "Escitalopram EP Impurity L",
+      "cas": "1026009-77-7"
+    },
+    {
+      "sr": 346,
+      "name": "Esomeprazole EP Impurity B",
+      "cas": "110374-16-8"
+    },
+    {
+      "sr": 347,
+      "name": "Ethyl 2-(3-formyl-4-isobutoxyphenyl)-4-methylthiazole-5-carboxylate",
+      "cas": "161798-03-4"
+    },
+    {
+      "sr": 348,
+      "name": "Ethyl Dapagliflozin",
+      "cas": "NA"
+    },
+    {
+      "sr": 349,
+      "name": "Ethylene Glycol Monoisopropyl Ether",
+      "cas": "109-59-1"
+    },
+    {
+      "sr": 350,
+      "name": "Etodolac",
+      "cas": "41340-25-4"
+    },
+    {
+      "sr": 351,
+      "name": "Etodolac EP Impurity A",
+      "cas": "41339-67-7"
+    },
+    {
+      "sr": 352,
+      "name": "Etodolac EP Impurity H",
+      "cas": "41340-36-7"
+    },
+    {
+      "sr": 353,
+      "name": "Etodolac Impurity C ;Etodolac USP Related Compound A 109518-47-0/",
+      "cas": "109518-50-5"
+    },
+    {
+      "sr": 354,
+      "name": "Etodolac methyl ester",
+      "cas": "122188-02-7"
+    },
+    {
+      "sr": 355,
+      "name": "Etodolac-2-Methylphenylhydrazine Hydrochloride",
+      "cas": "635-26-7"
+    },
+    {
+      "sr": 356,
+      "name": "Eucalyptol",
+      "cas": "470-82-6"
+    },
+    {
+      "sr": 357,
+      "name": "Everolimus",
+      "cas": "159351-69-6"
+    },
+    {
+      "sr": 358,
+      "name": "Ezetimib(S)-(+)-4-Phenyl-2-oxazolidinone",
+      "cas": "99395-88-7"
+    },
+    {
+      "sr": 359,
+      "name": "Ezetimibe",
+      "cas": "163222-33-1"
+    },
+    {
+      "sr": 360,
+      "name": "Ezetimibe Impurity 16",
+      "cas": "189028-95-3"
+    },
+    {
+      "sr": 361,
+      "name": "Famotidine EP Impurity C",
+      "cas": "106433-44-7"
+    },
+    {
+      "sr": 362,
+      "name": "Famotidine EP Impurity F",
+      "cas": "107880-74-0"
+    },
+    {
+      "sr": 363,
+      "name": "Favipiravir",
+      "cas": "259793-96-9"
+    },
+    {
+      "sr": 364,
+      "name": "Febuxostat",
+      "cas": "144060-53-7"
+    },
+    {
+      "sr": 365,
+      "name": "Febuxostat Amide",
+      "cas": "1239233-86-3"
+    },
+    {
+      "sr": 366,
+      "name": "Febuxostat Dicarboxylic Acid",
+      "cas": "1239233-87-4"
+    },
+    {
+      "sr": 367,
+      "name": "Febuxostat Ethyl Ester",
+      "cas": "160844-75-7"
+    },
+    {
+      "sr": 368,
+      "name": "Febuxostat Methyl Ester",
+      "cas": "923942-34-1"
+    },
+    {
+      "sr": 369,
+      "name": "Felbinac EP Impurity B",
+      "cas": "92-52-4"
+    },
+    {
+      "sr": 370,
+      "name": "Fenofibrate",
+      "cas": "49562-28-9"
+    },
+    {
+      "sr": 371,
+      "name": "Fenofibrate EP Impurity B;Fenofibrate USP Related Compound B",
+      "cas": "42017-89-0"
+    },
+    {
+      "sr": 372,
+      "name": "Fenticonazole Nitrate EP Impurity A",
+      "cas": "24155-42-8"
+    },
+    {
+      "sr": 373,
+      "name": "Fexofenadine - Impurity B",
+      "cas": "479035-75-1"
+    },
+    {
+      "sr": 374,
+      "name": "Fexofenadine EP Impurity A",
+      "cas": "76811-98-8"
+    },
+    {
+      "sr": 375,
+      "name": "Fexofenadine Hydrochloride",
+      "cas": "153439-40-8"
+    },
+    {
+      "sr": 376,
+      "name": "Finasteride Dihydro Carboxylic Acid",
+      "cas": "103335-55-3"
+    },
+    {
+      "sr": 377,
+      "name": "Finasteride EP Impurity B",
+      "cas": "103335-41-7"
+    },
+    {
+      "sr": 378,
+      "name": "Fingolimod Hydrochloride",
+      "cas": "162359-56-0"
+    },
+    {
+      "sr": 379,
+      "name": "Flavoxate EP Impurity A",
+      "cas": "3468-01-7"
+    },
+    {
+      "sr": 380,
+      "name": "Flavoxate Hydrochloride - Impurity B;Flavoxate related compound C (3-Methyl-flavone-8-carboxylic Aci",
+      "cas": "35888-94-9"
+    },
+    {
+      "sr": 381,
+      "name": "Flavoxate Hydrochloride EP Impurity A/Flavoxate USP Related Compound A 3468-01-7.",
+      "cas": "NA"
+    },
+    {
+      "sr": 382,
+      "name": "Flecainide Acetate EP Impurity D",
+      "cas": "35480-52-5"
+    },
+    {
+      "sr": 383,
+      "name": "Flecainide pyridine analog;Flecainide - Impurity E",
+      "cas": "57415-36-8"
+    },
+    {
+      "sr": 384,
+      "name": "Fluconazole",
+      "cas": "86386-73-4"
+    },
+    {
+      "sr": 385,
+      "name": "Fluconazole - Impurity A;Fluconazole Triazole Isomer",
+      "cas": "89429-59-4"
+    },
+    {
+      "sr": 386,
+      "name": "Fluconazole - Impurity B;Fluconazole Related Compound A",
+      "cas": "871550-15-1"
+    },
+    {
+      "sr": 387,
+      "name": "Fluconazole Impurity 16/1,2,4-Triazole",
+      "cas": "288-88-0"
+    },
+    {
+      "sr": 388,
+      "name": "Flurbiprofen - Impurity A;Flurbiprofen Related Compound A",
+      "cas": "6341-72-6"
+    },
+    {
+      "sr": 389,
+      "name": "Flutamide EP Impurity D",
+      "cas": "98-16-8"
+    },
+    {
+      "sr": 390,
+      "name": "Fluticasone Furoate",
+      "cas": "397864-44-7"
+    },
+    {
+      "sr": 391,
+      "name": "Fluticasone Propionate",
+      "cas": "80474-14-2"
+    },
+    {
+      "sr": 392,
+      "name": "Folic Acid EP Impurity A",
+      "cas": "4271-30-1"
+    },
+    {
+      "sr": 393,
+      "name": "Folic Acid EP Impurity D",
+      "cas": "119-24-4"
+    },
+    {
+      "sr": 394,
+      "name": "Folic Acid Impurity E",
+      "cas": "1391068-26-0"
+    },
+    {
+      "sr": 395,
+      "name": "Framycetin Sulfate - Impurity A",
+      "cas": "3947-65-7"
+    },
+    {
+      "sr": 396,
+      "name": "Framycetin sulphate; Neomycin B",
+      "cas": "4146-30-9"
+    },
+    {
+      "sr": 397,
+      "name": "Fructose/D-(-)-Fructose; D-(-)-Levulose",
+      "cas": "57-48-7"
+    },
+    {
+      "sr": 398,
+      "name": "Fumaric acid",
+      "cas": "110-17-8"
+    },
+    {
+      "sr": 399,
+      "name": "Furosemide EP Impurity-E /2,4-dichlorobenzoic",
+      "cas": "50-84-0"
+    },
+    {
+      "sr": 400,
+      "name": "Gabapentin EP Impurity A",
+      "cas": "64744-50-9"
+    },
+    {
+      "sr": 401,
+      "name": "galantamine hydrobromide 1953-04-4.",
+      "cas": "NA"
+    },
+    {
+      "sr": 402,
+      "name": "Gallic Acid",
+      "cas": "149-91-7"
+    },
+    {
+      "sr": 403,
+      "name": "Gliclazide EP Impurity F",
+      "cas": "1076198-18-9"
+    },
+    {
+      "sr": 404,
+      "name": "Glimepiride",
+      "cas": "93479-97-1"
+    },
+    {
+      "sr": 405,
+      "name": "Glimepiride - Impurity A;Glimepiride Related Compound A",
+      "cas": "684286-46-2"
+    },
+    {
+      "sr": 406,
+      "name": "Glimepiride - Impurity B;Glimepiride Related Compound B",
+      "cas": "119018-29-0"
+    },
+    {
+      "sr": 407,
+      "name": "Glutathione EP Impurity B",
+      "cas": "52-90-4"
+    },
+    {
+      "sr": 408,
+      "name": "Glycopyrronium Bromide EP Impurity C",
+      "cas": "90-64-2"
+    },
+    {
+      "sr": 409,
+      "name": "Glycyrrhizic acid; Glycyrrhizin",
+      "cas": "1405-86-3"
+    },
+    {
+      "sr": 410,
+      "name": "Granisetron batch 2 hydrolysisImp D",
+      "cas": "NA"
+    },
+    {
+      "sr": 411,
+      "name": "Granisetron chloride (2-methyl)",
+      "cas": "NA"
+    },
+    {
+      "sr": 412,
+      "name": "Granisetron column upper & lower spot Mix 1 & 2-N methyl indazole acid ester",
+      "cas": "NA"
+    },
+    {
+      "sr": 413,
+      "name": "Granisetron column upper spot N-methylation2-N methyl indazole caroxylic acid methyl ester",
+      "cas": "NA"
+    },
+    {
+      "sr": 414,
+      "name": "Granisetron EP Impurity F",
+      "cas": "1364914-39-5"
+    },
+    {
+      "sr": 415,
+      "name": "Granisetron Imp A N-methylationlower spot",
+      "cas": "NA"
+    },
+    {
+      "sr": 416,
+      "name": "Granisetron Imp A S-3 productImpurity D",
+      "cas": "NA"
+    },
+    {
+      "sr": 417,
+      "name": "Granisetron Imp A S-II",
+      "cas": "NA"
+    },
+    {
+      "sr": 418,
+      "name": "Granisetron impindazole caroxylic acid methyl ester",
+      "cas": "NA"
+    },
+    {
+      "sr": 419,
+      "name": "Granisetron Impurity 4",
+      "cas": "106649-02-9"
+    },
+    {
+      "sr": 420,
+      "name": "Granisetron Impurity 52-(2-Aminophenyl)acetonitrile",
+      "cas": "2973-50-4"
+    },
+    {
+      "sr": 421,
+      "name": "Granisetron Impurity 6",
+      "cas": "NA"
+    },
+    {
+      "sr": 422,
+      "name": "Granisetron Impurity 6 (Nitroso)",
+      "cas": "NA"
+    },
+    {
+      "sr": 423,
+      "name": "Granisetron Impurity A",
+      "cas": "127472-42-8"
+    },
+    {
+      "sr": 424,
+      "name": "Granisetron Impurity B",
+      "cas": "107007-95-4"
+    },
+    {
+      "sr": 425,
+      "name": "Granisetron Impurity D",
+      "cas": "50890-83-0"
+    },
+    {
+      "sr": 426,
+      "name": "Granisetron methyl ester",
+      "cas": "NA"
+    },
+    {
+      "sr": 427,
+      "name": "Guaiacol EP Impurity B",
+      "cas": "108-95-2"
+    },
+    {
+      "sr": 428,
+      "name": "Guaifenesin",
+      "cas": "93-14-1"
+    },
+    {
+      "sr": 429,
+      "name": "Guaifenesin EP Impurity A",
+      "cas": "90-05-1"
+    },
+    {
+      "sr": 430,
+      "name": "Guaifenesin EP Impurity B",
+      "cas": "14007-09-1"
+    },
+    {
+      "sr": 431,
+      "name": "Guanfacine Hydrochloride",
+      "cas": "29110-48-3"
+    },
+    {
+      "sr": 432,
+      "name": "Guanidine Hydrochloride",
+      "cas": "50-01-1"
+    },
+    {
+      "sr": 433,
+      "name": "Hexadecane",
+      "cas": "544-76-3"
+    },
+    {
+      "sr": 434,
+      "name": "Hydrochlorothiazide",
+      "cas": "58-93-5"
+    },
+    {
+      "sr": 435,
+      "name": "Hydrochlorothiazide EP Impurity A",
+      "cas": "58-94-6"
+    },
+    {
+      "sr": 436,
+      "name": "Hydrochlorothiazide EP Impurity B",
+      "cas": "121-30-2"
+    },
+    {
+      "sr": 437,
+      "name": "Hydrocortisone Acetate EP Impurity A",
+      "cas": "50-23-7"
+    },
+    {
+      "sr": 438,
+      "name": "Hydrocortisone Acetate EP Impurity C",
+      "cas": "52-21-1"
+    },
+    {
+      "sr": 439,
+      "name": "Hydrocortisone Acetate EP Impurity E",
+      "cas": "7753-60-8"
+    },
+    {
+      "sr": 440,
+      "name": "Hydroxychloroquine Sulfate",
+      "cas": "747-36-4"
+    },
+    {
+      "sr": 441,
+      "name": "Hydroxyzine Hydrochloride - Impurity A 303-26-4 (free base)",
+      "cas": "NA"
+    },
+    {
+      "sr": 442,
+      "name": "Hydroxyzine Impurity 12",
+      "cas": "628-89-7"
+    },
+    {
+      "sr": 443,
+      "name": "Hypoxanthine (USP)",
+      "cas": "68-94-0"
+    },
+    {
+      "sr": 444,
+      "name": "Ibuprofen",
+      "cas": "15687-27-1"
+    },
+    {
+      "sr": 445,
+      "name": "Ibuprofen EP Impurity B",
+      "cas": "3585-49-7"
+    },
+    {
+      "sr": 446,
+      "name": "Iloperidone Piperidine Impurity",
+      "cas": "84163-77-9"
+    },
+    {
+      "sr": 447,
+      "name": "Imatinib Hydrochloride Impurity G",
+      "cas": "109-01-3"
+    },
+    {
+      "sr": 448,
+      "name": "Imiquimod USP Related Compound C",
+      "cas": "99010-64-7"
+    },
+    {
+      "sr": 449,
+      "name": "Indacaterol Impurity 13",
+      "cas": "312753-53-0"
+    },
+    {
+      "sr": 450,
+      "name": "Indacaterol Impurity 14",
+      "cas": "530084-79-8"
+    },
+    {
+      "sr": 451,
+      "name": "Indacaterol Impurity 16",
+      "cas": "100331-89-3"
+    },
+    {
+      "sr": 452,
+      "name": "Indacaterol Impurity 33",
+      "cas": "173140-90-4"
+    },
+    {
+      "sr": 453,
+      "name": "Indacaterol Maleate",
+      "cas": "753498-25-8"
+    },
+    {
+      "sr": 454,
+      "name": "Indapamide - Impurity B;Indapamide Related Compound A",
+      "cas": "63968-75-2"
+    },
+    {
+      "sr": 455,
+      "name": "Indapamide - Impurity C (Hydrochloride Salt) ;Indapamide Related Compound B",
+      "cas": "102789-79-7"
+    },
+    {
+      "sr": 456,
+      "name": "Inositol",
+      "cas": "87-89-8"
+    },
+    {
+      "sr": 457,
+      "name": "Irbesartan Bromo N1-Trityl Impurity",
+      "cas": "124750-51-2"
+    },
+    {
+      "sr": 458,
+      "name": "Isoconazole EP Impurity B",
+      "cas": "24155-42-8"
+    },
+    {
+      "sr": 459,
+      "name": "Isoniazide EP Impurity A",
+      "cas": "55-22-1"
+    },
+    {
+      "sr": 460,
+      "name": "Itraconazole",
+      "cas": "84625-61-6"
+    },
+    {
+      "sr": 461,
+      "name": "Ivabradine hydrochloride",
+      "cas": "148849-67-6"
+    },
+    {
+      "sr": 462,
+      "name": "Ivabradine Impurity 28",
+      "cas": "866783-13-3"
+    },
+    {
+      "sr": 463,
+      "name": "Ivabradine Impurity 56",
+      "cas": "73942-87-7"
+    },
+    {
+      "sr": 464,
+      "name": "Ivabradine.HCL Pure 148849-67-65",
+      "cas": "NA"
+    },
+    {
+      "sr": 465,
+      "name": "Ketoconazole",
+      "cas": "65277-42-1"
+    },
+    {
+      "sr": 466,
+      "name": "Ketoconazole Impurity D",
+      "cas": "67914-61-8"
+    },
+    {
+      "sr": 467,
+      "name": "Ketoprofen EP Impurity F",
+      "cas": "42872-30-0"
+    },
+    {
+      "sr": 468,
+      "name": "Lacosamide USP Related Compound D",
+      "cas": "1379592-19-4"
+    },
+    {
+      "sr": 469,
+      "name": "Lacosamide USP Related Compound F",
+      "cas": "171623-02-2"
+    },
+    {
+      "sr": 470,
+      "name": "Lactam of carbocisteine",
+      "cas": "62305-89-9"
+    },
+    {
+      "sr": 471,
+      "name": "Lactitol Monohydrate - Impurity C",
+      "cas": "69-65-8"
+    },
+    {
+      "sr": 472,
+      "name": "Lactose monohydrate",
+      "cas": "10039-26-6"
+    },
+    {
+      "sr": 473,
+      "name": "Lactulose",
+      "cas": "4618-18-2"
+    },
+    {
+      "sr": 474,
+      "name": "Lamivudin EP Impurity C",
+      "cas": "69-72-7"
+    },
+    {
+      "sr": 475,
+      "name": "Landiolol Hydrochloride",
+      "cas": "144481-98-1"
+    },
+    {
+      "sr": 476,
+      "name": "Lansoprazole",
+      "cas": "103577-45-3"
+    },
+    {
+      "sr": 477,
+      "name": "Lansoprazole Chloromethyl Impurity /Lansoprazole Impurity Intermediate-LS;Lansoprazole Chloro Imp",
+      "cas": "127337-60-4"
+    },
+    {
+      "sr": 478,
+      "name": "Lansoprazole EP Impurity B/Lansoprazole Sulfone",
+      "cas": "131926-99-3"
+    },
+    {
+      "sr": 479,
+      "name": "Lansoprazole EP Impurity D",
+      "cas": "615-16-7"
+    },
+    {
+      "sr": 480,
+      "name": "Lansoprazole EP Impurity E",
+      "cas": "583-39-1"
+    },
+    {
+      "sr": 481,
+      "name": "Lansoprazole S-Isomer",
+      "cas": "138530-95-7"
+    },
+    {
+      "sr": 482,
+      "name": "Lansoprazole Sulfone ;Lansoprazole EP Impurity B",
+      "cas": "131926-99-3"
+    },
+    {
+      "sr": 483,
+      "name": "Lansoprazole USP Related Compound B ;Lansoprazole EP Impurity C /Lansoprazole Sulfide",
+      "cas": "103577-40-8"
+    },
+    {
+      "sr": 484,
+      "name": "L-Citrulline",
+      "cas": "372-75-8"
+    },
+    {
+      "sr": 485,
+      "name": "L-Citrulline-Dl-Malate",
+      "cas": "70796-17-7"
+    },
+    {
+      "sr": 486,
+      "name": "L-Cysteine",
+      "cas": "52-90-4"
+    },
+    {
+      "sr": 487,
+      "name": "L-Cystin (EP)/L-Cysteine Disulfide",
+      "cas": "56-89-3"
+    },
+    {
+      "sr": 488,
+      "name": "Leflunomide - Impurity A;Leflunomide Related Compound A;4-(Trifluoromethyl)aniline",
+      "cas": "455-14-1"
+    },
+    {
+      "sr": 489,
+      "name": "Leflunomide - Impurity B;Leflunomide Related Compound B;Teriflunomide",
+      "cas": "163451-81-8"
+    },
+    {
+      "sr": 490,
+      "name": "Leflunomide - Impurity C;Leflunomide Related Compound C",
+      "cas": "61643-23-0"
+    },
+    {
+      "sr": 491,
+      "name": "Leflunomide - Impurity D;5-Methylisoxazole-4-carboxylic Acid",
+      "cas": "42831-50-5"
+    },
+    {
+      "sr": 492,
+      "name": "Levamisole Hydrochloride",
+      "cas": "16595-80-5"
+    },
+    {
+      "sr": 493,
+      "name": "Levocetirizine",
+      "cas": "130018-77-8"
+    },
+    {
+      "sr": 494,
+      "name": "Levocetirizine Dihydrochloride - Impurity F",
+      "cas": "83881-59-8"
+    },
+    {
+      "sr": 495,
+      "name": "Levocetirizine HCl",
+      "cas": "130018-77-8"
+    },
+    {
+      "sr": 496,
+      "name": "Levocetirizine imp A",
+      "cas": "NA"
+    },
+    {
+      "sr": 497,
+      "name": "Levocetirizine imp C",
+      "cas": "NA"
+    },
+    {
+      "sr": 498,
+      "name": "Levocetirizine imp G",
+      "cas": "NA"
+    },
+    {
+      "sr": 499,
+      "name": "Levocitrizine DiHydrochloride",
+      "cas": "130018-87-0"
+    },
+    {
+      "sr": 500,
+      "name": "Levodopa",
+      "cas": "59-92-7"
+    },
+    {
+      "sr": 501,
+      "name": "Levodopa EP Impurity B",
+      "cas": "60-18-4"
+    },
+    {
+      "sr": 502,
+      "name": "Levodopa EP Impurity BL-tyrosine",
+      "cas": "60-18-4"
+    },
+    {
+      "sr": 503,
+      "name": "Levodopa EP Impurity D",
+      "cas": "5796-17-8"
+    },
+    {
+      "sr": 504,
+      "name": "Levodopa USP Related Compound BLevodopa EP Impurity C",
+      "cas": "7636-26-2"
+    },
+    {
+      "sr": 505,
+      "name": "Levosalbutamol Sufalte",
+      "cas": "148563-16-0"
+    },
+    {
+      "sr": 506,
+      "name": "Levosulpiride",
+      "cas": "23672-07-3"
+    },
+    {
+      "sr": 507,
+      "name": "Lidocaine - Impurity H ;Lidocaine Related Compound H",
+      "cas": "1131-01-7"
+    },
+    {
+      "sr": 508,
+      "name": "Lidocaine - Impurity H;Lidocaine Related Compound H(Ranolazine SM)",
+      "cas": "1131-01-7"
+    },
+    {
+      "sr": 509,
+      "name": "Lidocaine Base(written on vial)Lidocaine - Impurity I 17289-53-1(written on vial)",
+      "cas": "NA"
+    },
+    {
+      "sr": 510,
+      "name": "Lidocaine Dichloro Impurity",
+      "cas": "39084-88-3"
+    },
+    {
+      "sr": 511,
+      "name": "Lidocaine Hydrochloride Impurity H ;Lidocaine Related Compound HN-(2,6-Dimethylphenyl)-2-chloroa",
+      "cas": "1131-01-7"
+    },
+    {
+      "sr": 512,
+      "name": "Lidocaine Hydrochloride Monohydrate",
+      "cas": "6108-05-0"
+    },
+    {
+      "sr": 513,
+      "name": "Linagliptin",
+      "cas": "668270-12-0"
+    },
+    {
+      "sr": 514,
+      "name": "Linagliptin Impurity 65",
+      "cas": "188111-79-7"
+    },
+    {
+      "sr": 515,
+      "name": "Linagliptin R-Isomer",
+      "cas": "NA"
+    },
+    {
+      "sr": 516,
+      "name": "Linalool",
+      "cas": "78-70-6"
+    },
+    {
+      "sr": 517,
+      "name": "Linalyl Acetate",
+      "cas": "115-95-7"
+    },
+    {
+      "sr": 518,
+      "name": "Linezolid",
+      "cas": "165800-03-3"
+    },
+    {
+      "sr": 519,
+      "name": "Lisinopril Dihydrate - Impurity B (Monohydrate)",
+      "cas": "6192-52-5"
+    },
+    {
+      "sr": 520,
+      "name": "Lithium Carbonate",
+      "cas": "554-13-2"
+    },
+    {
+      "sr": 521,
+      "name": "Lithium Hydroxide",
+      "cas": "1310-65-2"
+    },
+    {
+      "sr": 522,
+      "name": "L-Lysine monohydrochloride",
+      "cas": "NA"
+    },
+    {
+      "sr": 523,
+      "name": "Loperamide",
+      "cas": "53179-11-6"
+    },
+    {
+      "sr": 524,
+      "name": "Loperamide Related Compound F",
+      "cas": "181112-35-6"
+    },
+    {
+      "sr": 525,
+      "name": "Lornoxicam Impurity B",
+      "cas": "70415-50-8"
+    },
+    {
+      "sr": 526,
+      "name": "Losartan Potassium",
+      "cas": "124750-99-8"
+    },
+    {
+      "sr": 527,
+      "name": "L-Phenylalanine;Nateglinide Impurity D;Aspartame - Impurity C",
+      "cas": "63-91-2"
+    },
+    {
+      "sr": 528,
+      "name": "L-Prolinamide",
+      "cas": "7531-52-4"
+    },
+    {
+      "sr": 529,
+      "name": "L-Proline",
+      "cas": "147-85-3"
+    },
+    {
+      "sr": 530,
+      "name": "L-Proline Methyl Ester Hydrochloride 2133-40-6 (HCl salt)",
+      "cas": "NA"
+    },
+    {
+      "sr": 531,
+      "name": "Luliconazole",
+      "cas": "187164-19-8"
+    },
+    {
+      "sr": 532,
+      "name": "Luliconazole-cis-Isomer",
+      "cas": "NA"
+    },
+    {
+      "sr": 533,
+      "name": "Lumefantrine",
+      "cas": "82186-77-4"
+    },
+    {
+      "sr": 534,
+      "name": "Lumefantrine Desbutyl Impurity",
+      "cas": "355841-11-1"
+    },
+    {
+      "sr": 535,
+      "name": "Lumefantrine DBA Impurity -2-(Dibutylamino)-1-(2,7-dichloro-9H-fluoren-4-yl)ethanol Hydrochloride",
+      "cas": "53221-07-1"
+    },
+    {
+      "sr": 536,
+      "name": "Lumefantrine DBA Impurity-2-(Dibutylamino)-1-(2,7-dichloro-9H-fluoren-4-yl)ethanol",
+      "cas": "69759-61-1"
+    },
+    {
+      "sr": 537,
+      "name": "Lumefantrine Dibutyl",
+      "cas": "NA"
+    },
+    {
+      "sr": 538,
+      "name": "Lumefantrine Epoxide",
+      "cas": "53221-14-0"
+    },
+    {
+      "sr": 539,
+      "name": "Lumefantrine Impurity n-butylamine",
+      "cas": "NA"
+    },
+    {
+      "sr": 540,
+      "name": "Lumefantrine RC A (Impurity A)",
+      "cas": "1331642-68-2"
+    },
+    {
+      "sr": 541,
+      "name": "Lurasidone EP Impurity B",
+      "cas": "186204-37-5"
+    },
+    {
+      "sr": 542,
+      "name": "Lurasidone Hydrochloride",
+      "cas": "367514-88-3"
+    },
+    {
+      "sr": 543,
+      "name": "Lurasidone imp-Isoindole;exo-2,3-Norbornanedicarboximide",
+      "cas": "14805-29-9"
+    },
+    {
+      "sr": 544,
+      "name": "Lurasidone Impurity 55",
+      "cas": "2746-19-2"
+    },
+    {
+      "sr": 545,
+      "name": "Lurasidone Impurity A",
+      "cas": "223586-82-1"
+    },
+    {
+      "sr": 546,
+      "name": "Lurasidone Trans (R,R) Mesylate; Cyclohexyl methyl ester",
+      "cas": "186204-35-3"
+    },
+    {
+      "sr": 547,
+      "name": "Lysine Hydrochloride",
+      "cas": "657-27-2"
+    },
+    {
+      "sr": 548,
+      "name": "Malic Acid",
+      "cas": "6915-15-7"
+    },
+    {
+      "sr": 549,
+      "name": "Maltitol ;Mannitol - Impurity B ;Sorbitol - Impurity C",
+      "cas": "585-88-6"
+    },
+    {
+      "sr": 550,
+      "name": "Mandelic acid (USP)",
+      "cas": "90-64-2"
+    },
+    {
+      "sr": 551,
+      "name": "Meclozine - Impurity H 303-26-4 (free base)",
+      "cas": "NA"
+    },
+    {
+      "sr": 552,
+      "name": "Mefenamic Acid",
+      "cas": "61-68-7"
+    },
+    {
+      "sr": 553,
+      "name": "Melatonin Related Compound AMelatonin - Impurity C",
+      "cas": "608-07-1"
+    },
+    {
+      "sr": 554,
+      "name": "Memantine Related Compound A 1,3-Dimethyladamantane",
+      "cas": "702-79-4"
+    },
+    {
+      "sr": 555,
+      "name": "Memantine Related Compound B ;3,5-Dimethyladamantane-1-ol",
+      "cas": "707-37-9"
+    },
+    {
+      "sr": 556,
+      "name": "Memantine Related Compound C ;1-Chloro-3,5-dimethyladamantane",
+      "cas": "707-36-8"
+    },
+    {
+      "sr": 557,
+      "name": "Memantine Related Compound D ;1-Bromo-3,5-dimethyladamantane",
+      "cas": "941-37-7"
+    },
+    {
+      "sr": 558,
+      "name": "Memantine Related Compound E ;N-3,5-Dimethyladamantan-1-yl formamide",
+      "cas": "351329-88-9"
+    },
+    {
+      "sr": 559,
+      "name": "Memantine-1 Amino-3 Hydroxy Adamantane",
+      "cas": "702-82-9"
+    },
+    {
+      "sr": 560,
+      "name": "Menbutone",
+      "cas": "3562-99-0"
+    },
+    {
+      "sr": 561,
+      "name": "Menthol-(\u00b1)-Menthol",
+      "cas": "89-78-1"
+    },
+    {
+      "sr": 562,
+      "name": "Mercaptopurine EP Impurity A",
+      "cas": "68-94-0"
+    },
+    {
+      "sr": 563,
+      "name": "Mesalamine ;Mesalazine",
+      "cas": "89-57-6"
+    },
+    {
+      "sr": 564,
+      "name": "Mesalazine EP Impurity H",
+      "cas": "69-72-7"
+    },
+    {
+      "sr": 565,
+      "name": "Mes",
+      "cas": "19767-45-4"
+    },
+    {
+      "sr": 566,
+      "name": "Mesna - Impurity A Mesna - Impurity C (Freebase) 69536-71-6 (written on vial)",
+      "cas": "NA"
+    },
+    {
+      "sr": 567,
+      "name": "Mesna ;Sodium 2-mercaptoethanesulfonate",
+      "cas": "19767-45-4"
+    },
+    {
+      "sr": 568,
+      "name": "Mesna Impurity B",
+      "cas": "1391053-66-9"
+    },
+    {
+      "sr": 569,
+      "name": "Mesna Related Compound B Mesna - Impurity D (Disodium Salt) 16208-51-8 (written on vial)",
+      "cas": "NA"
+    },
+    {
+      "sr": 570,
+      "name": "Metacresol EP Impurity E",
+      "cas": "90-00-6"
+    },
+    {
+      "sr": 571,
+      "name": "Methocarbamol",
+      "cas": "532-03-6"
+    },
+    {
+      "sr": 572,
+      "name": "Methyl 3-(4-hydroxyphenyl)propionate;Methyl p-Hydroxyhydrocinnamate; Methyl Phloretate",
+      "cas": "5597-50-2"
+    },
+    {
+      "sr": 573,
+      "name": "Methyl Salicylate EP Impurity B;Metacresol EP Impurity A",
+      "cas": "108-95-2"
+    },
+    {
+      "sr": 574,
+      "name": "Methylide",
+      "cas": "NA"
+    },
+    {
+      "sr": 575,
+      "name": "Metoprolol Base",
+      "cas": "51384-51-1"
+    },
+    {
+      "sr": 576,
+      "name": "Metoprolol EP Impurity G",
+      "cas": "501-94-0"
+    },
+    {
+      "sr": 577,
+      "name": "Metoprolol Succinate - Impurity C (Freebase) ;Metoprolol Related Compound C",
+      "cas": "29122-74-5"
+    },
+    {
+      "sr": 578,
+      "name": "Metoprolol Base",
+      "cas": "51384-51-1"
+    },
+    {
+      "sr": 579,
+      "name": "Metronidazole - Impurity B;4-Nitro-1H-imidazole",
+      "cas": "3034-38-6"
+    },
+    {
+      "sr": 580,
+      "name": "Metronidazole ;Metronidazole Benzoate - Impurity A",
+      "cas": "443-48-1"
+    },
+    {
+      "sr": 581,
+      "name": "Metronidazole Benzoate - Impurity B;2-Methyl-4-nitroimidazole",
+      "cas": "696-23-2"
+    },
+    {
+      "sr": 582,
+      "name": "Metronidazole EP Impurity C",
+      "cas": "5006-69-9"
+    },
+    {
+      "sr": 583,
+      "name": "Metronidazole Impurity A ;2-Methyl-4-nitroimidazole",
+      "cas": "696-23-1"
+    },
+    {
+      "sr": 584,
+      "name": "Miconazole EP Impurity A",
+      "cas": "24155-42-8"
+    },
+    {
+      "sr": 585,
+      "name": "Miconazole Nitrate",
+      "cas": "22832-87-7"
+    },
+    {
+      "sr": 586,
+      "name": "Miconazole Nitrate - Impurity B (Nitrate Salt)",
+      "cas": "24169-02-6"
+    },
+    {
+      "sr": 587,
+      "name": "Minocycline",
+      "cas": "10118-90-8"
+    },
+    {
+      "sr": 588,
+      "name": "Minocycline",
+      "cas": "10118-90-8"
+    },
+    {
+      "sr": 589,
+      "name": "Minoxidil",
+      "cas": "38304-91-5"
+    },
+    {
+      "sr": 590,
+      "name": "Minoxidil EP Impurity B -2 bottles- 5gm X 2",
+      "cas": "156-83-2"
+    },
+    {
+      "sr": 591,
+      "name": "Mirabegron - Impurity I (Freebase) 1892-57-5 (free base)",
+      "cas": "NA"
+    },
+    {
+      "sr": 592,
+      "name": "Mirabegron EP Impurity G",
+      "cas": "521284-19-5"
+    },
+    {
+      "sr": 593,
+      "name": "Mirabegron EP Impurity I (HCl) 25952-53-8 (hcl)",
+      "cas": "NA"
+    },
+    {
+      "sr": 594,
+      "name": "Mirabegron Impurity 53",
+      "cas": "53266-94-7"
+    },
+    {
+      "sr": 595,
+      "name": "Mirtazapine",
+      "cas": "85650-52-8"
+    },
+    {
+      "sr": 596,
+      "name": "Moexipril USP Related Compound F",
+      "cas": "82717-96-2"
+    },
+    {
+      "sr": 597,
+      "name": "Monoethyl Phthalate",
+      "cas": "2306-33-4"
+    },
+    {
+      "sr": 598,
+      "name": "Montelukast Sodium",
+      "cas": "151767-02-1"
+    },
+    {
+      "sr": 599,
+      "name": "Montelukast Styrene/Montelukast EP Impurity B",
+      "cas": "918972-54-0"
+    },
+    {
+      "sr": 600,
+      "name": "morpholine Derivative Imp",
+      "cas": "1807854-60-9"
+    },
+    {
+      "sr": 601,
+      "name": "Moxifloxacin hydrochloride",
+      "cas": "186826-86-8"
+    },
+    {
+      "sr": 602,
+      "name": "Moxifloxacin Related Compound A",
+      "cas": "151213-15-9"
+    },
+    {
+      "sr": 603,
+      "name": "Mycophenolate Mofetil",
+      "cas": "128794-94-5"
+    },
+    {
+      "sr": 604,
+      "name": "Mycophenolate Mofetil EP Impurity F/Mycophenolate Sodium",
+      "cas": "24280-93-1"
+    },
+    {
+      "sr": 605,
+      "name": "Mycophenolate Mofetil Ethyl Ester",
+      "cas": "13312-25-9"
+    },
+    {
+      "sr": 606,
+      "name": "Mycophenolate Mofetil Related Compound B-1H",
+      "cas": "26675-76-3"
+    },
+    {
+      "sr": 607,
+      "name": "Myo-Inositol Impurity A (EP/BP)",
+      "cas": "69-65-8"
+    },
+    {
+      "sr": 608,
+      "name": "N-(2,6-Dichlorophenyl)-carbonimidic Dichloride",
+      "cas": "21709-18-2"
+    },
+    {
+      "sr": 609,
+      "name": "N-(2,6-Dichlorophenyl)formamide;Clonidine Impurity 2",
+      "cas": "10113-35-6"
+    },
+    {
+      "sr": 610,
+      "name": "N-(S)-Glycidylphthalimide",
+      "cas": "161596-47-0"
+    },
+    {
+      "sr": 611,
+      "name": "N,O-Bis(trimethylsilyl)trifluoroacetamide",
+      "cas": "25561-30-2"
+    },
+    {
+      "sr": 612,
+      "name": "Nalidixic acid",
+      "cas": "389-08-2"
+    },
+    {
+      "sr": 613,
+      "name": "Name Of the Material CAS",
+      "cas": "NA"
+    },
+    {
+      "sr": 614,
+      "name": "Naphazoline Hydrochloride",
+      "cas": "550-99-2"
+    },
+    {
+      "sr": 615,
+      "name": "Naphazoline Hydrochloride impurity- C -1-Naphthylacetonitrile",
+      "cas": "132-75-2"
+    },
+    {
+      "sr": 616,
+      "name": "naphthalen-1",
+      "cas": "90-15-3"
+    },
+    {
+      "sr": 617,
+      "name": "Naproxen - Impurity G;Naproxen Related Compound G",
+      "cas": "23979-41-1"
+    },
+    {
+      "sr": 618,
+      "name": "Naproxen EP Impurity B- Triethylsilane-617-86-7",
+      "cas": "89617-86-7"
+    },
+    {
+      "sr": 619,
+      "name": "Naproxen EP Impurity L/Naproxen USP Related Compound L",
+      "cas": "3900-45-6"
+    },
+    {
+      "sr": 620,
+      "name": "Narcissin",
+      "cas": "604-80-8"
+    },
+    {
+      "sr": 621,
+      "name": "Natamycin",
+      "cas": "7681-93-8"
+    },
+    {
+      "sr": 622,
+      "name": "N-Desmethyl Escitalopram",
+      "cas": "144025-14-9"
+    },
+    {
+      "sr": 623,
+      "name": "Neamine ;Neomycin Sulfate - Impurity A",
+      "cas": "3947-65-7"
+    },
+    {
+      "sr": 624,
+      "name": "Neomycin B",
+      "cas": "4146-30-9"
+    },
+    {
+      "sr": 625,
+      "name": "Nepafenac",
+      "cas": "78281-72-8"
+    },
+    {
+      "sr": 626,
+      "name": "Nepafenac Acid impurity",
+      "cas": "NA"
+    },
+    {
+      "sr": 627,
+      "name": "Nepafenac Chloro impurity",
+      "cas": "NA"
+    },
+    {
+      "sr": 628,
+      "name": "Nepafenac Impurity A",
+      "cas": "2835-77-0"
+    },
+    {
+      "sr": 629,
+      "name": "Nepafenac Impurity B",
+      "cas": "78281-61-5"
+    },
+    {
+      "sr": 630,
+      "name": "Nepafenac Impurity C",
+      "cas": "2731586-58-4"
+    },
+    {
+      "sr": 631,
+      "name": "Nepafenac Impurity D",
+      "cas": "51135-38-7"
+    },
+    {
+      "sr": 632,
+      "name": "Nepafenac Impurity ENepafenac Related Compound A",
+      "cas": "1246956-18-2"
+    },
+    {
+      "sr": 633,
+      "name": "Niacinamide",
+      "cas": "98-92-0"
+    },
+    {
+      "sr": 634,
+      "name": "Nicardipine Dimethyl Ester",
+      "cas": "206976-29-6"
+    },
+    {
+      "sr": 635,
+      "name": "Nicardipine USP Related Compound A-Nicardipine Mono Acid",
+      "cas": "74936-72-4"
+    },
+    {
+      "sr": 636,
+      "name": "Nicergoline - Impurity D (5-Bromonicotinic acid)",
+      "cas": "20826-04-4"
+    },
+    {
+      "sr": 637,
+      "name": "Nicotinamide (Niacinamide)",
+      "cas": "98-92-0"
+    },
+    {
+      "sr": 638,
+      "name": "Nicotinic Acid (vitamin B3)",
+      "cas": "59-67-6"
+    },
+    {
+      "sr": 639,
+      "name": "Nicotinic Acid EP Impurity E",
+      "cas": "55-22-1"
+    },
+    {
+      "sr": 640,
+      "name": "Niflumic Acid EP Impurity C",
+      "cas": "98-16-8"
+    },
+    {
+      "sr": 641,
+      "name": "Nifuroxazide EP Impurity B (Methylparaben)",
+      "cas": "99-76-3"
+    },
+    {
+      "sr": 642,
+      "name": "Nimesulide",
+      "cas": "51803-78-2"
+    },
+    {
+      "sr": 643,
+      "name": "Nimodipine EP Impurity C",
+      "cas": "70172-96-2"
+    },
+    {
+      "sr": 644,
+      "name": "Nintedanib Impurity 32",
+      "cas": "262368-30-9"
+    },
+    {
+      "sr": 645,
+      "name": "Nintedanib Impurity 35 ;Nintedanib N-Acyl Methoxyenolindole",
+      "cas": "1168152-07-5"
+    },
+    {
+      "sr": 646,
+      "name": "Nintedanib Impurity 52",
+      "cas": "14192-26-8"
+    },
+    {
+      "sr": 647,
+      "name": "Nintedanib N-Acetyl Impurity",
+      "cas": "2380229-45-6"
+    },
+    {
+      "sr": 648,
+      "name": "Nitrofurantoin",
+      "cas": "67-20-9"
+    },
+    {
+      "sr": 649,
+      "name": "Nitrofurazone",
+      "cas": "59-87-0"
+    },
+    {
+      "sr": 650,
+      "name": "N-Nitroso Aripiprazole EP Impurity B",
+      "cas": "2989508-28-1"
+    },
+    {
+      "sr": 651,
+      "name": "N-Nitroso Rivaroxaban Open-Ring Acid Impurity",
+      "cas": "NA"
+    },
+    {
+      "sr": 652,
+      "name": "NortriptylineDemethylamitriptyline",
+      "cas": "72-69-5"
+    },
+    {
+      "sr": 653,
+      "name": "Ofloxacin",
+      "cas": "82419-36-1"
+    },
+    {
+      "sr": 654,
+      "name": "Ofloxacin - Impurity A ;9,10-Difluoro-2,3-dihydro-3-methyl-7-oxo-7H-pyrido[1,2,3-de]-1,4-benzoxazine",
+      "cas": "82419-35-0"
+    },
+    {
+      "sr": 655,
+      "name": "Ofloxacin Impurity D ;Ofloxacin 10-Fluoro Isomer",
+      "cas": "197291-75-1"
+    },
+    {
+      "sr": 656,
+      "name": "Ofloxacin Impurity E",
+      "cas": "82419-52-1"
+    },
+    {
+      "sr": 657,
+      "name": "Olanzapine",
+      "cas": "132539-06-1"
+    },
+    {
+      "sr": 658,
+      "name": "Olanzapine EP Impurity A/Olanzapine USP Related Compound A",
+      "cas": "138564-59-7"
+    },
+    {
+      "sr": 659,
+      "name": "Olmesartan Imidazole Ethyl Ester Impurity",
+      "cas": "144689-93-0"
+    },
+    {
+      "sr": 660,
+      "name": "Olmesartan Impurity 52",
+      "cas": "124750-51-2"
+    },
+    {
+      "sr": 661,
+      "name": "Olmesartan Medoxomil Impurity 5",
+      "cas": "80841-78-7"
+    },
+    {
+      "sr": 662,
+      "name": "Olmesartan USP Related Compound A/Olmesartan Medoxomil EP Impurity B",
+      "cas": "849206-43-5"
+    },
+    {
+      "sr": 663,
+      "name": "Olopatadine E-Isomer",
+      "cas": "113806-06-7"
+    },
+    {
+      "sr": 664,
+      "name": "Olopatadine Hydrochloride",
+      "cas": "140462-76-6"
+    },
+    {
+      "sr": 665,
+      "name": "Olopatadine Related Compound B/Olopatadine N Oxide",
+      "cas": "173174-07-7"
+    },
+    {
+      "sr": 666,
+      "name": "Olopatadine Related Compound C",
+      "cas": "55453-87-7"
+    },
+    {
+      "sr": 667,
+      "name": "Omeprazole",
+      "cas": "73590-58-6"
+    },
+    {
+      "sr": 668,
+      "name": "Omeprazole EP Impurity A /Omeprazole USP Related Compound B",
+      "cas": "37052-78-1"
+    },
+    {
+      "sr": 669,
+      "name": "Omeprazole EP Impurity B",
+      "cas": "110374-16-8"
+    },
+    {
+      "sr": 670,
+      "name": "Omeprazole EP Impurity C",
+      "cas": "73590-85-9"
+    },
+    {
+      "sr": 671,
+      "name": "Omeprazole EP Impurity E",
+      "cas": "176219-04-8"
+    },
+    {
+      "sr": 672,
+      "name": "Omeprazole EP Impurity F and G mixture",
+      "cas": "NA"
+    },
+    {
+      "sr": 673,
+      "name": "Omeprazole EP Impurity H",
+      "cas": "863029-89-4"
+    },
+    {
+      "sr": 674,
+      "name": "Omeprazole EP Impurity I",
+      "cas": "158812-85-2"
+    },
+    {
+      "sr": 675,
+      "name": "Omeprazole USP Related Compound A/Omeprazole Impurity D",
+      "cas": "88546-55-8"
+    },
+    {
+      "sr": 676,
+      "name": "Ondansetron EP Impurity F",
+      "cas": "693-98-1"
+    },
+    {
+      "sr": 677,
+      "name": "Ornidazole",
+      "cas": "16773-42-5"
+    },
+    {
+      "sr": 678,
+      "name": "Oseltamivir Impurity C",
+      "cas": "187227-45-8"
+    },
+    {
+      "sr": 679,
+      "name": "Oxcarbazepine - Impurity D",
+      "cas": "19579-83-0"
+    },
+    {
+      "sr": 680,
+      "name": "Oxybutynin API",
+      "cas": "NA"
+    },
+    {
+      "sr": 681,
+      "name": "Oxybutynin EP Impurity D",
+      "cas": "4335-77-7"
+    },
+    {
+      "sr": 682,
+      "name": "Oxybutynin EP Impurity E/Ethylpropyl Analogue of Oxybutynin HCl 1215677-72-7 (free base)",
+      "cas": "NA"
+    },
+    {
+      "sr": 683,
+      "name": "Oxybutynin EP Impurity F",
+      "cas": "10399-13-0"
+    },
+    {
+      "sr": 684,
+      "name": "Oxybutynin Impurity D",
+      "cas": "4335-77-7"
+    },
+    {
+      "sr": 685,
+      "name": "Ozenoxacin",
+      "cas": "245765-41-7"
+    },
+    {
+      "sr": 686,
+      "name": "p-(2-Methoxyethyl)anisoleMetoprolol Impurity 7",
+      "cas": "80314-58-5"
+    },
+    {
+      "sr": 687,
+      "name": "Paliperidone USP Related Compound B",
+      "cas": "84163-77-9"
+    },
+    {
+      "sr": 688,
+      "name": "Paliperidone; Product No: P1897; CAS RN:",
+      "cas": "144598-75-4"
+    },
+    {
+      "sr": 689,
+      "name": "p-Aminophenol;Paracetamol - Impurity K",
+      "cas": "123-30-8"
+    },
+    {
+      "sr": 690,
+      "name": "Pantoprazole Chloro Impurity/2-(Chloromethyl)-3,4-dimethoxypyridine Hydrochloride",
+      "cas": "72830-09-2"
+    },
+    {
+      "sr": 691,
+      "name": "Pantoprazole EP Impurity A",
+      "cas": "127780-16-9"
+    },
+    {
+      "sr": 692,
+      "name": "Pantoprazole EP Impurity B",
+      "cas": "102625-64-9"
+    },
+    {
+      "sr": 693,
+      "name": "Pantoprazole Sodium",
+      "cas": "138786-67-1"
+    },
+    {
+      "sr": 694,
+      "name": "Pantoprazole Sodium Sesquihydrate",
+      "cas": "164579-32-2"
+    },
+    {
+      "sr": 695,
+      "name": "Paracetamol",
+      "cas": "103-90-2"
+    },
+    {
+      "sr": 696,
+      "name": "Paracetamol - Impurity J",
+      "cas": "539-03-7"
+    },
+    {
+      "sr": 697,
+      "name": "Paracetamol - Impurity L",
+      "cas": "2514961-29-4"
+    },
+    {
+      "sr": 698,
+      "name": "Paracetamol BP",
+      "cas": "103-90-2"
+    },
+    {
+      "sr": 699,
+      "name": "Paracetamol EP Impurity A",
+      "cas": "614-80-2"
+    },
+    {
+      "sr": 700,
+      "name": "Paracetamol EP Impurity B",
+      "cas": "1693-37-4"
+    },
+    {
+      "sr": 701,
+      "name": "Paracetamol EP Impurity D",
+      "cas": "103-84-4"
+    },
+    {
+      "sr": 702,
+      "name": "Paracetamol EP Impurity J",
+      "cas": "539-03-7"
+    },
+    {
+      "sr": 703,
+      "name": "p-cymene",
+      "cas": "99-87-6"
+    },
+    {
+      "sr": 704,
+      "name": "Penciclovir",
+      "cas": "39809-25-1"
+    },
+    {
+      "sr": 705,
+      "name": "Perindopril EP Impurity A",
+      "cas": "80875-98-5"
+    },
+    {
+      "sr": 706,
+      "name": "Phenazopyridine Hydrochloride",
+      "cas": "136-40-3"
+    },
+    {
+      "sr": 707,
+      "name": "Phenol;Pirfenidone EP Impurity C;Phenoxyethanol EP Impurity A",
+      "cas": "108-95-2"
+    },
+    {
+      "sr": 708,
+      "name": "phenylcyclohexylglycolic acid",
+      "cas": "4335-77-7"
+    },
+    {
+      "sr": 709,
+      "name": "Phenylephrine imp",
+      "cas": "1196-38-9"
+    },
+    {
+      "sr": 710,
+      "name": "Phenylephrine BASE",
+      "cas": "NA"
+    },
+    {
+      "sr": 711,
+      "name": "Phenylephrine EP Impurity C 679394-62-8 (Sulphate Salt)",
+      "cas": "NA"
+    },
+    {
+      "sr": 712,
+      "name": "Phenylephrine EP Impurity C (HCl)",
+      "cas": "94240-17-2"
+    },
+    {
+      "sr": 713,
+      "name": "Phenylephrine Imp-Ethyl phenethylcarbamate 6970-83-8( written on vial)",
+      "cas": "NA"
+    },
+    {
+      "sr": 714,
+      "name": "Phenylephrine Impurity 41",
+      "cas": "2491-37-4"
+    },
+    {
+      "sr": 715,
+      "name": "Phenylhydrazine hydrochloride",
+      "cas": "59-88-1"
+    },
+    {
+      "sr": 716,
+      "name": "Phenylmercuric Nitrate",
+      "cas": "NA"
+    },
+    {
+      "sr": 717,
+      "name": "Phenytoin USP Related Compound A/Phenytoin EP Impurity C",
+      "cas": "3060-50-2"
+    },
+    {
+      "sr": 718,
+      "name": "Phytobooster",
+      "cas": "NA"
+    },
+    {
+      "sr": 719,
+      "name": "Picolinic acid",
+      "cas": "98-98-6"
+    },
+    {
+      "sr": 720,
+      "name": "Pilocarpine EP Impurity A",
+      "cas": "531-35-1"
+    },
+    {
+      "sr": 721,
+      "name": "Pilocarpine Nitrate",
+      "cas": "148-72-1"
+    },
+    {
+      "sr": 722,
+      "name": "Piperaquine Phosphate",
+      "cas": "85547-56-4"
+    },
+    {
+      "sr": 723,
+      "name": "Piperazine monophosphate, Monohydrate",
+      "cas": "18534-18-4"
+    },
+    {
+      "sr": 724,
+      "name": "Piperidine pyrrolopyrimidine",
+      "cas": "NA"
+    },
+    {
+      "sr": 725,
+      "name": "Piperine",
+      "cas": "94-62-2"
+    },
+    {
+      "sr": 726,
+      "name": "Pirenzepine EP Impurity D",
+      "cas": "109-01-3"
+    },
+    {
+      "sr": 727,
+      "name": "Praziquantel",
+      "cas": "55268-74-1"
+    },
+    {
+      "sr": 728,
+      "name": "Prazosin EP Impurity A",
+      "cas": "23680-84-4"
+    },
+    {
+      "sr": 729,
+      "name": "Prazosin Hydrochloride",
+      "cas": "19237-84-4"
+    },
+    {
+      "sr": 730,
+      "name": "Prednisolone Sodium Phosphate",
+      "cas": "125-02-0"
+    },
+    {
+      "sr": 731,
+      "name": "Pregabalin - Impurity A;(S)-Pregabalin Lactam",
+      "cas": "181289-23-6"
+    },
+    {
+      "sr": 732,
+      "name": "Pregabalin - Impurity B;Pregabalin Related Compound A",
+      "cas": "148553-51-9"
+    },
+    {
+      "sr": 733,
+      "name": "Pregabalin - Impurity C;Mandelic Acid",
+      "cas": "90-64-2"
+    },
+    {
+      "sr": 734,
+      "name": "Pregabalin - Impurity D",
+      "cas": "4118-51-8"
+    },
+    {
+      "sr": 735,
+      "name": "Pregabalin Lactam; Pregabalin Related Compound C",
+      "cas": "61312-87-6"
+    },
+    {
+      "sr": 736,
+      "name": "Prilocaine - Impurity B",
+      "cas": "636-21-5"
+    },
+    {
+      "sr": 737,
+      "name": "Prilocaine - Impurity E (Freebase)",
+      "cas": "744961-76-0"
+    },
+    {
+      "sr": 738,
+      "name": "Prochlorperazine",
+      "cas": "58-38-8"
+    },
+    {
+      "sr": 739,
+      "name": "Prochlorperazine Impurity",
+      "cas": "NA"
+    },
+    {
+      "sr": 740,
+      "name": "Propylparaben",
+      "cas": "94-13-3"
+    },
+    {
+      "sr": 741,
+      "name": "Prucalopride Acid Amine Impurity",
+      "cas": "123654-26-2"
+    },
+    {
+      "sr": 742,
+      "name": "Prucalopride Impurity 17-1-(3-Methoxypropyl)piperidin-4-Amine",
+      "cas": "179474-79-4"
+    },
+    {
+      "sr": 743,
+      "name": "Prucalopride N-Oxide",
+      "cas": "NA"
+    },
+    {
+      "sr": 744,
+      "name": "Prucalopride Succinate Impurity 1",
+      "cas": "NA"
+    },
+    {
+      "sr": 745,
+      "name": "Prucalopride Succinate Impurity 2",
+      "cas": "NA"
+    },
+    {
+      "sr": 746,
+      "name": "Prucalopride Succinate Impurity 3",
+      "cas": "NA"
+    },
+    {
+      "sr": 747,
+      "name": "Prucalopride Succinate Impurity 4",
+      "cas": "NA"
+    },
+    {
+      "sr": 748,
+      "name": "p-Toluenesulfonylmethyl Isocyanide",
+      "cas": "36635-61-7"
+    },
+    {
+      "sr": 749,
+      "name": "Pyrimethamine",
+      "cas": "58-14-0"
+    },
+    {
+      "sr": 750,
+      "name": "Pyrimido dichloride",
+      "cas": "NA"
+    },
+    {
+      "sr": 751,
+      "name": "Quetiapine EP Impurity B Dihydrochloride Salt",
+      "cas": "111974-74-4"
+    },
+    {
+      "sr": 752,
+      "name": "Quetiapine EP Impurity G 3159-07-7.",
+      "cas": "NA"
+    },
+    {
+      "sr": 753,
+      "name": "Quinapril EP Impurity B",
+      "cas": "82717-96-2"
+    },
+    {
+      "sr": 754,
+      "name": "Rabeprazole EP Impurity K",
+      "cas": "615-16-7"
+    },
+    {
+      "sr": 755,
+      "name": "Rabeprazole Related Compound D (USP) ;Rabeprazole Sodium - Impurity A",
+      "cas": "117976-47-3"
+    },
+    {
+      "sr": 756,
+      "name": "Rabeprazole USP Related Compound A/Rabeprazole EP Impurity C",
+      "cas": "1163685-30-0"
+    },
+    {
+      "sr": 757,
+      "name": "Rabeprazole USP Related Compound C/Rabeprazole EP Impurity F",
+      "cas": "583-39-1"
+    },
+    {
+      "sr": 758,
+      "name": "Rabeprazole USP Related Compound D;Rabeprazole EP Impurity A",
+      "cas": "117976-47-3"
+    },
+    {
+      "sr": 759,
+      "name": "Rabeprazole USP Related Compound E/Rabeprazole EP Impurity B",
+      "cas": "117977-21-6"
+    },
+    {
+      "sr": 760,
+      "name": "Raltegravir Impurity 1/Dimethyl maleate",
+      "cas": "624-48-6"
+    },
+    {
+      "sr": 761,
+      "name": "Ramipril EP Impurity F",
+      "cas": "82717-96-2"
+    },
+    {
+      "sr": 762,
+      "name": "Ramipril Related Compound A;Ramipril Impurity A;Ramipril methyl ester",
+      "cas": "108313-11-7"
+    },
+    {
+      "sr": 763,
+      "name": "Ramipril Related Compound D;Ramipril Impurity D",
+      "cas": "108731-95-9"
+    },
+    {
+      "sr": 764,
+      "name": "Ranolazine Related Compound C",
+      "cas": "5294-61-1"
+    },
+    {
+      "sr": 765,
+      "name": "Ranolazine Related Compound D",
+      "cas": "380204-72-8"
+    },
+    {
+      "sr": 766,
+      "name": "Remifentanil EP Impurity G 61085-73-2 (oxalate salt)",
+      "cas": "NA"
+    },
+    {
+      "sr": 767,
+      "name": "Remifentanil EP Impurity J ;Methyl 1-benzyl-4-(phenylamino)piperidine-4-carboxylate",
+      "cas": "61085-60-7"
+    },
+    {
+      "sr": 768,
+      "name": "Ribociclib",
+      "cas": "NA"
+    },
+    {
+      "sr": 769,
+      "name": "Rifaximin",
+      "cas": "80621-81-4"
+    },
+    {
+      "sr": 770,
+      "name": "Risperidone",
+      "cas": "106266-06-2"
+    },
+    {
+      "sr": 771,
+      "name": "Risperidone EP Impurity L",
+      "cas": "63234-80-0"
+    },
+    {
+      "sr": 772,
+      "name": "Risperidone EP Impurity M",
+      "cas": "84163-77-9"
+    },
+    {
+      "sr": 773,
+      "name": "Rivaroxaban",
+      "cas": "366789-02-8"
+    },
+    {
+      "sr": 774,
+      "name": "Rivaroxaban CMTCA Impurity",
+      "cas": "97799-98-9"
+    },
+    {
+      "sr": 775,
+      "name": "Rivaroxaban EP Impurity B ;Rivaroxaban USP Related Compound B ; Rivaroxaban Acetamide Impurity",
+      "cas": "1429334-00-8"
+    },
+    {
+      "sr": 776,
+      "name": "Rivaroxaban EP Impurity D ;Rivaroxaban USP Related Compound D ; Rivaroxaban Urea Dimer",
+      "cas": "1365267-35-1"
+    },
+    {
+      "sr": 777,
+      "name": "Rivaroxaban EP Impurity E;Rivaroxaban Deschloro Impurity",
+      "cas": "1415566-28-7"
+    },
+    {
+      "sr": 778,
+      "name": "Rivaroxaban EP Impurity F ; Rivaroxaban CTCA Impurity ; Chlorothiophene carboxylic acid (USP)",
+      "cas": "24065-33-6"
+    },
+    {
+      "sr": 779,
+      "name": "Rivaroxaban EP Impurity G ;Rivaroxaban USP Related Compound G ; Rivaroxaban Phthalimido Impurity",
+      "cas": "446292-08-6"
+    },
+    {
+      "sr": 780,
+      "name": "Rivaroxaban EP Impurity H ;Rivaroxaban Related Compound H",
+      "cas": "1770812-37-7"
+    },
+    {
+      "sr": 781,
+      "name": "Rivaroxaban EP Impurity I ;Rivaroxaban N-acyl glycolic acid (USP)",
+      "cas": "1151893-81-0"
+    },
+    {
+      "sr": 782,
+      "name": "Rivaroxaban EP STD",
+      "cas": "366789-02-8"
+    },
+    {
+      "sr": 783,
+      "name": "Rivaroxaban Impurity 15",
+      "cas": "446292-04-2"
+    },
+    {
+      "sr": 784,
+      "name": "Rivaroxaban Impurity 22",
+      "cas": "1807854-60-9"
+    },
+    {
+      "sr": 785,
+      "name": "Rivaroxaban Impurity 3",
+      "cas": "1074-82-4"
+    },
+    {
+      "sr": 786,
+      "name": "Rivaroxaban Impurity 54",
+      "cas": "122-98-5"
+    },
+    {
+      "sr": 787,
+      "name": "Rivaroxaban Impurity 55",
+      "cas": "29518-11-4"
+    },
+    {
+      "sr": 788,
+      "name": "Rivaroxaban Open-Ring Acid Impurity",
+      "cas": "931204-39-6"
+    },
+    {
+      "sr": 789,
+      "name": "RRR-\u03b1-Tocopherol",
+      "cas": "59-02-9"
+    },
+    {
+      "sr": 790,
+      "name": "Rupatadine Fumarate",
+      "cas": "182349-12-8"
+    },
+    {
+      "sr": 791,
+      "name": "Salbutamol",
+      "cas": "18559-94-9"
+    },
+    {
+      "sr": 792,
+      "name": "Salbutamol EP Impurity I",
+      "cas": "56796-66-8"
+    },
+    {
+      "sr": 793,
+      "name": "Salicylic Acid ;Sulfasalazine - Impurity H",
+      "cas": "69-72-7"
+    },
+    {
+      "sr": 794,
+      "name": "Salicylic Acid EP Impurity C",
+      "cas": "108-95-2"
+    },
+    {
+      "sr": 795,
+      "name": "Saxagliptin Acid",
+      "cas": "361442-00-4"
+    },
+    {
+      "sr": 796,
+      "name": "Saxagliptin Cyano",
+      "cas": "NA"
+    },
+    {
+      "sr": 797,
+      "name": "Saxagliptin Diamide",
+      "cas": "NA"
+    },
+    {
+      "sr": 798,
+      "name": "Saxagliptin Hydrochloride Dihydrate",
+      "cas": "1073057-20-1"
+    },
+    {
+      "sr": 799,
+      "name": "Saxagliptin Impurity KSM-2",
+      "cas": "709031-45-8"
+    },
+    {
+      "sr": 800,
+      "name": "Selumetinib Impurity 24",
+      "cas": "774608-49-0"
+    },
+    {
+      "sr": 801,
+      "name": "Sertaconazole EP Impurity A",
+      "cas": "24155-42-8"
+    },
+    {
+      "sr": 802,
+      "name": "Sertraline EP Impurity E ((R)-(-)-Mandelic Acid)",
+      "cas": "611-71-2"
+    },
+    {
+      "sr": 803,
+      "name": "Sildenafil Chlorosulfonyl Impurity",
+      "cas": "139756-22-2"
+    },
+    {
+      "sr": 804,
+      "name": "Silodosin",
+      "cas": "160970-54-7"
+    },
+    {
+      "sr": 805,
+      "name": "Silodosin Beta Form-b1",
+      "cas": "160970-54-7"
+    },
+    {
+      "sr": 806,
+      "name": "Silodosin Beta Form-b2",
+      "cas": "160970-54-7"
+    },
+    {
+      "sr": 807,
+      "name": "Silodosin cyano alcohol maleate salt",
+      "cas": "NA"
+    },
+    {
+      "sr": 808,
+      "name": "Silodosin Impurity 23",
+      "cas": "239463-85-5"
+    },
+    {
+      "sr": 809,
+      "name": "Silodosin mesylate",
+      "cas": "16099-03-9"
+    },
+    {
+      "sr": 810,
+      "name": "Simvastatin",
+      "cas": "79902-63-9"
+    },
+    {
+      "sr": 811,
+      "name": "Simvastatin Acid Methyl Ester",
+      "cas": "145576-26-7"
+    },
+    {
+      "sr": 812,
+      "name": "Simvastatin EP Impurity E",
+      "cas": "75330-75-5"
+    },
+    {
+      "sr": 813,
+      "name": "Simvastatin EP Impurity K",
+      "cas": "NA"
+    },
+    {
+      "sr": 814,
+      "name": "Sitagliptin",
+      "cas": "486460-32-6"
+    },
+    {
+      "sr": 815,
+      "name": "Sitagliptin Phosphate",
+      "cas": "654671-78-0"
+    },
+    {
+      "sr": 816,
+      "name": "Sitagliptin Phosphate monohydrate",
+      "cas": "654671-77-9"
+    },
+    {
+      "sr": 817,
+      "name": "Sitagliptin Triazole Hydrochloride",
+      "cas": "762240-92-6"
+    },
+    {
+      "sr": 818,
+      "name": "Sodium Ascorbate;Vitamin C sodium salt;Sodium (R)-2-((S)-1,2-dihydroxyethyl)-4-hydroxy-5-oxo-2,5-di",
+      "cas": "134-03-2"
+    },
+    {
+      "sr": 819,
+      "name": "Sodium Benzoate",
+      "cas": "532-32-1"
+    },
+    {
+      "sr": 820,
+      "name": "Sodium Cromoglicate - Impurity A;1-(2,6-Dihydroxyphenyl)ethanone;2',6'-Dihydroxyacetophenone",
+      "cas": "699-83-2"
+    },
+    {
+      "sr": 821,
+      "name": "Sodium Cromoglicate - Impurity B;Diethyl Cromoglycate;Cromolyn Related Compound B (USP)",
+      "cas": "16150-45-1"
+    },
+    {
+      "sr": 822,
+      "name": "Sodium Cromoglicate EP Impurity A",
+      "cas": "699-83-2"
+    },
+    {
+      "sr": 823,
+      "name": "Sodium Cromoglicate;Cromolyn Disodium",
+      "cas": "15826-37-6"
+    },
+    {
+      "sr": 824,
+      "name": "Sodium DL-Malate",
+      "cas": "676-46-0"
+    },
+    {
+      "sr": 825,
+      "name": "Sodium Methyl Parahydroxybenzoate",
+      "cas": "5026-62-0"
+    },
+    {
+      "sr": 826,
+      "name": "Sodium Picosulfate",
+      "cas": "10040-45-6"
+    },
+    {
+      "sr": 827,
+      "name": "Sodium Stearyl Maleate",
+      "cas": "5373-51-3"
+    },
+    {
+      "sr": 828,
+      "name": "Sorbitol - Impurity A",
+      "cas": "69-65-8"
+    },
+    {
+      "sr": 829,
+      "name": "Succinic Anhydride",
+      "cas": "108-30-5"
+    },
+    {
+      "sr": 830,
+      "name": "Sugammadex Sodium",
+      "cas": "343306-79-6"
+    },
+    {
+      "sr": 831,
+      "name": "Sulfacetamide Sodium EP Impurity D",
+      "cas": "80-08-0"
+    },
+    {
+      "sr": 832,
+      "name": "Sulfadoxine",
+      "cas": "2447-57-6"
+    },
+    {
+      "sr": 833,
+      "name": "Sulfamethoxazole EP Impurity A",
+      "cas": "21312-10-7"
+    },
+    {
+      "sr": 834,
+      "name": "Sulfasalazine EP Impurity H",
+      "cas": "69-72-7"
+    },
+    {
+      "sr": 835,
+      "name": "Sulphanilamide",
+      "cas": "63-74-1"
+    },
+    {
+      "sr": 836,
+      "name": "Sunitinib Impurity 71",
+      "cas": "707-07-3"
+    },
+    {
+      "sr": 837,
+      "name": "Tamsulosin - Impurity D",
+      "cas": "1799280-05-9"
+    },
+    {
+      "sr": 838,
+      "name": "Tamsulosin Hydrochloride",
+      "cas": "106463-17-6"
+    },
+    {
+      "sr": 839,
+      "name": "Tamsulosin Hydrochloride - Impurity B (Freebase)Tamsulosin Amine (USP)R (-) Tamsulosin amine",
+      "cas": "112101-81-2"
+    },
+    {
+      "sr": 840,
+      "name": "Tamsulosin Hydrochloride - Impurity I",
+      "cas": "3259-03-8"
+    },
+    {
+      "sr": 841,
+      "name": "Tamsulosin Impurity 16",
+      "cas": "589-10-6"
+    },
+    {
+      "sr": 842,
+      "name": "Tamsulosin Impurity 17",
+      "cas": "4463-59-6"
+    },
+    {
+      "sr": 843,
+      "name": "Tamsulosin Impurity A",
+      "cas": "918867-88-6"
+    },
+    {
+      "sr": 844,
+      "name": "Tamsulosin Impurity C",
+      "cas": "2724727-15-3"
+    },
+    {
+      "sr": 845,
+      "name": "Taurine",
+      "cas": "107-35-7"
+    },
+    {
+      "sr": 846,
+      "name": "Telmisartan",
+      "cas": "144701-48-4"
+    },
+    {
+      "sr": 847,
+      "name": "Telmisartan EP Impurity A",
+      "cas": "152628-02-9"
+    },
+    {
+      "sr": 848,
+      "name": "Telmisartan EP Impurity B",
+      "cas": "1026353-20-7"
+    },
+    {
+      "sr": 849,
+      "name": "Telmisartan EP Impurity C",
+      "cas": "144702-26-1"
+    },
+    {
+      "sr": 850,
+      "name": "Telmisartan EP Impurity E",
+      "cas": "884330-12-5"
+    },
+    {
+      "sr": 851,
+      "name": "Temephos",
+      "cas": "3383-96-8"
+    },
+    {
+      "sr": 852,
+      "name": "Teneligliptin Hydrobromide",
+      "cas": "906093-29-6"
+    },
+    {
+      "sr": 853,
+      "name": "Teneligliptin Impurity A",
+      "cas": "401566-79-8"
+    },
+    {
+      "sr": 854,
+      "name": "Teneligliptin Impurity B",
+      "cas": "401566-80-1"
+    },
+    {
+      "sr": 855,
+      "name": "Teneligliptin Impurity C",
+      "cas": "NA"
+    },
+    {
+      "sr": 856,
+      "name": "Tenofovir",
+      "cas": "147127-20-6"
+    },
+    {
+      "sr": 857,
+      "name": "Terazosin EP Impurity A",
+      "cas": "23680-84-4"
+    },
+    {
+      "sr": 858,
+      "name": "Terazosin EP Impurity L",
+      "cas": "40172-95-0"
+    },
+    {
+      "sr": 859,
+      "name": "Terazosin EP Impurity M",
+      "cas": "31350-27-3"
+    },
+    {
+      "sr": 860,
+      "name": "Terazosin Hydrochloride EP Impurity K",
+      "cas": "19237-84-4"
+    },
+    {
+      "sr": 861,
+      "name": "Terpinen-4-ol",
+      "cas": "562-74-3"
+    },
+    {
+      "sr": 862,
+      "name": "Terpineol",
+      "cas": "98-55-5"
+    },
+    {
+      "sr": 863,
+      "name": "Tert-Nitrobutane2-Methyl-2-nitropropane;Trimethylnitromethane",
+      "cas": "594-70-7"
+    },
+    {
+      "sr": 864,
+      "name": "Thiamine",
+      "cas": "70-16-6"
+    },
+    {
+      "sr": 865,
+      "name": "Thiamine EP Impurity A",
+      "cas": "2380-61-2"
+    },
+    {
+      "sr": 866,
+      "name": "Thiamine Hydrochloride",
+      "cas": "67-03-8"
+    },
+    {
+      "sr": 867,
+      "name": "Thiazolidine",
+      "cas": "504-78-9"
+    },
+    {
+      "sr": 868,
+      "name": "Thiocolchicoside",
+      "cas": "602-41-5"
+    },
+    {
+      "sr": 869,
+      "name": "Thiophene-2-aldehyde",
+      "cas": "98-03-3"
+    },
+    {
+      "sr": 870,
+      "name": "Thymol",
+      "cas": "89-83-8"
+    },
+    {
+      "sr": 871,
+      "name": "Ticagrelor",
+      "cas": "274693-27-5"
+    },
+    {
+      "sr": 872,
+      "name": "Timolol Maleate",
+      "cas": "26921-17-5"
+    },
+    {
+      "sr": 873,
+      "name": "Timolol Related Compound F",
+      "cas": "30165-96-9"
+    },
+    {
+      "sr": 874,
+      "name": "Tinidazole",
+      "cas": "19387-91-8"
+    },
+    {
+      "sr": 875,
+      "name": "Tinidazole - Impurity ATinidazole Related Compound A (USP)2-Methyl-4-nitroimidazole",
+      "cas": "696-23-2"
+    },
+    {
+      "sr": 876,
+      "name": "Tioconazole EP Impurity D",
+      "cas": "24155-42-8"
+    },
+    {
+      "sr": 877,
+      "name": "Tobramycin EP Impurity C",
+      "cas": "3947-65-7"
+    },
+    {
+      "sr": 878,
+      "name": "Tofacitinib Amine Impurity",
+      "cas": "477600-74-1"
+    },
+    {
+      "sr": 879,
+      "name": "Tofacitinib Imp Piperidine-3-one.HCL",
+      "cas": "32018-96-5"
+    },
+    {
+      "sr": 880,
+      "name": "Tofacitinib Impurity Q",
+      "cas": "3680-69-1"
+    },
+    {
+      "sr": 881,
+      "name": "Tofacitinib Impurity R",
+      "cas": "479633-63-1"
+    },
+    {
+      "sr": 882,
+      "name": "Tofacitinib Impurity S",
+      "cas": "923036-30-0"
+    },
+    {
+      "sr": 883,
+      "name": "Tranexamic Acid",
+      "cas": "1197-18-8"
+    },
+    {
+      "sr": 884,
+      "name": "Tranexamic Acid - Impurity C",
+      "cas": "330838-52-3"
+    },
+    {
+      "sr": 885,
+      "name": "Tranexamic Acid - Impurity D;4-(Aminomethyl)benzoic Acid",
+      "cas": "56-91-7"
+    },
+    {
+      "sr": 886,
+      "name": "Tricholine Citrate-WS-IH-CAS",
+      "cas": "546-63-4"
+    },
+    {
+      "sr": 887,
+      "name": "Trientine Dihydrochloride",
+      "cas": "38260-01-4"
+    },
+    {
+      "sr": 888,
+      "name": "Trimethoprim Hydroxy Compound",
+      "cas": "NA"
+    },
+    {
+      "sr": 889,
+      "name": "Trimethoprim Imp. F (EP) ;5-(3-Bromo-4,5-dimethoxybenzyl)pyrimidine-2,4-diamine",
+      "cas": "16285-82-8"
+    },
+    {
+      "sr": 890,
+      "name": "Trimethoprim Keto Compound",
+      "cas": "NA"
+    },
+    {
+      "sr": 891,
+      "name": "Triprolidine N-Oxide",
+      "cas": "1310575-86-0"
+    },
+    {
+      "sr": 892,
+      "name": "Tryptophol",
+      "cas": "526-55-6"
+    },
+    {
+      "sr": 893,
+      "name": "Ursolic Acid",
+      "cas": "77-52-1"
+    },
+    {
+      "sr": 894,
+      "name": "Valaciclovir EP Impurity G",
+      "cas": "1122-58-3"
+    },
+    {
+      "sr": 895,
+      "name": "Valsartan",
+      "cas": "137862-53-4"
+    },
+    {
+      "sr": 896,
+      "name": "Valsartan Acid Ethyl Ester",
+      "cas": "1111177-30-0"
+    },
+    {
+      "sr": 897,
+      "name": "Valsartan Desvaleryl Impurity",
+      "cas": "676129-92-3"
+    },
+    {
+      "sr": 898,
+      "name": "Valsartan Impurity 17",
+      "cas": "124750-51-2"
+    },
+    {
+      "sr": 899,
+      "name": "Valsartan USP Related Compound B/Valsartan EP Impurity C",
+      "cas": "952652-79-8"
+    },
+    {
+      "sr": 900,
+      "name": "Vasicine",
+      "cas": "6159-55-3"
+    },
+    {
+      "sr": 901,
+      "name": "Veratryl cyanide",
+      "cas": "93-17-4"
+    },
+    {
+      "sr": 902,
+      "name": "Vilanterol Trifenatate",
+      "cas": "503070-58-4"
+    },
+    {
+      "sr": 903,
+      "name": "Vildagliptin",
+      "cas": "274901-16-5"
+    },
+    {
+      "sr": 904,
+      "name": "Vildagliptin Amino Alcohol Impurity/1 Amino-3 Hydroxy Adamantane",
+      "cas": "702-82-9"
+    },
+    {
+      "sr": 905,
+      "name": "Vildagliptin Carboxylic Acid,Vildagliptin Acid Impurity",
+      "cas": "565453-40-9"
+    },
+    {
+      "sr": 906,
+      "name": "Vildagliptin Chloroacetyl Amide Impurity",
+      "cas": "214398-99-9"
+    },
+    {
+      "sr": 907,
+      "name": "Vildagliptin Chloroacetyl Nitrile (S)-Isomer;Vildagliptin Cyno Impurity",
+      "cas": "207557-35-5"
+    },
+    {
+      "sr": 908,
+      "name": "Vildagliptin Dimer; Vildagliptin Impurity D",
+      "cas": "1036959-23-5"
+    },
+    {
+      "sr": 909,
+      "name": "Vildagliptin Impurity 40 (2-Chloroacetyl)-L-proline",
+      "cas": "23500-10-9"
+    },
+    {
+      "sr": 910,
+      "name": "Vildagliptin Impurity 9 2133-40-6 (HCl salt)",
+      "cas": "NA"
+    },
+    {
+      "sr": 911,
+      "name": "Vildagliptin Impurity A ;Vildagliptin Cyclic Amidine",
+      "cas": "1789703-37-2"
+    },
+    {
+      "sr": 912,
+      "name": "Vildagliptin Impurity C ;Vildagliptin Diketo Impurity",
+      "cas": "1789703-36-1"
+    },
+    {
+      "sr": 913,
+      "name": "Vildagliptin Impurity C organic layer crude",
+      "cas": "NA"
+    },
+    {
+      "sr": 914,
+      "name": "Vildagliptin Mono Keto Impurity",
+      "cas": "2663700-61-4"
+    },
+    {
+      "sr": 915,
+      "name": "Vildagliptin-1,3-Adamantanediol",
+      "cas": "5001-18-3"
+    },
+    {
+      "sr": 916,
+      "name": "Vildagliptin-D-Prolinamide",
+      "cas": "62937-45-5"
+    },
+    {
+      "sr": 917,
+      "name": "Vildagliptin-L-Prolinamide",
+      "cas": "7531-52-4"
+    },
+    {
+      "sr": 918,
+      "name": "Vitamin b4",
+      "cas": "73-24-5"
+    },
+    {
+      "sr": 919,
+      "name": "Xylometazoline EP Impurity A;Xylometazoline USP Related Compound A",
+      "cas": "94266-17-8"
+    },
+    {
+      "sr": 920,
+      "name": "Xylometazoline Hydrochloride ;Oxymetazoline - Impurity B",
+      "cas": "1218-35-5"
+    },
+    {
+      "sr": 921,
+      "name": "Ziprasidone Hydrochloride - Impurity A 3-(1-Piperazinyl)-1,2-benzisothiazole",
+      "cas": "87691-87-0"
+    },
+    {
+      "sr": 922,
+      "name": "\u03b2-Hydroxy Dextromethorphan",
+      "cas": "120442-81-1"
+    }
+  ]
+}

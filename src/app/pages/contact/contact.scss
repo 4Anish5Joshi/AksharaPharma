@@ -1,0 +1,140 @@
+.page-hero {
+  padding: clamp(3rem, 7vw, 5rem) 0 1rem;
+}
+
+.page-hero h1 {
+  font-size: clamp(2.1rem, 4.5vw, 3.2rem);
+  max-width: 16ch;
+}
+
+.page-hero__lead {
+  font-size: 1.12rem;
+  max-width: 52ch;
+  margin-top: 0.85rem;
+}
+
+.contact {
+  padding-top: 1.5rem;
+}
+
+.contact__grid {
+  display: grid;
+  grid-template-columns: 0.9fr 1.2fr;
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.info {
+  background: linear-gradient(165deg, #0a3c38, #117a6f);
+  color: #fff;
+  border-radius: calc(var(--radius) + 4px);
+  padding: 1.75rem 1.5rem;
+}
+
+.info h2 {
+  color: #fff;
+  margin-bottom: 0.5rem;
+}
+
+.info > p {
+  color: rgba(255, 255, 255, 0.78);
+  margin-bottom: 1.5rem;
+}
+
+.info__block {
+  padding: 1rem 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.info__block span {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--sand);
+  margin-bottom: 0.4rem;
+}
+
+.info__block a,
+.info__block p {
+  color: #fff;
+  margin: 0 0 0.2rem;
+}
+
+.info__block a:hover {
+  text-decoration: underline;
+}
+
+.form-wrap {
+  background: var(--paper-elevated);
+  border: 1px solid var(--line);
+  border-radius: calc(var(--radius) + 4px);
+  padding: 1.5rem;
+  box-shadow: var(--shadow);
+}
+
+form {
+  display: grid;
+  gap: 1rem;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+label {
+  display: grid;
+  gap: 0.4rem;
+  font-family: var(--font-display);
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--teal-deep);
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0.8rem 0.9rem;
+  background: #fff;
+  color: var(--ink);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: rgba(17, 122, 111, 0.5);
+  box-shadow: 0 0 0 4px rgba(26, 163, 146, 0.12);
+}
+
+textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.success {
+  padding: 1.5rem 0.5rem;
+}
+
+.success h2 {
+  margin-bottom: 0.6rem;
+}
+
+.success a {
+  color: var(--teal);
+  font-weight: 600;
+}
+
+@media (max-width: 860px) {
+  .contact__grid,
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+}

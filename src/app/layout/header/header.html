@@ -1,0 +1,41 @@
+<header class="header" [class.header--scrolled]="scrolled()" [class.header--open]="menuOpen()">
+  <div class="container header__inner">
+    <a routerLink="/" class="brand" (click)="closeMenu()" aria-label="Akshara Pharmaa home">
+      <img class="brand__logo" src="/images/logo.png" alt="Akshara Pharmaa" width="48" height="48" />
+      <span class="brand__text">
+        <span class="brand__name">Akshara</span>
+        <span class="brand__sub">Pharmaa</span>
+      </span>
+    </a>
+
+    <nav id="primary-nav" class="nav" [class.nav--open]="menuOpen()" aria-label="Primary">
+      @for (link of links; track link.path) {
+        <a
+          [routerLink]="link.path"
+          routerLinkActive="nav__link--active"
+          [routerLinkActiveOptions]="{ exact: link.exact }"
+          class="nav__link"
+          (click)="closeMenu()"
+        >
+          {{ link.label }}
+        </a>
+      }
+      <a class="btn btn-primary nav__cta" [href]="company.phoneHref" (click)="closeMenu()">
+        Call {{ company.phone }}
+      </a>
+    </nav>
+
+    <button
+      class="menu-btn"
+      type="button"
+      [attr.aria-expanded]="menuOpen()"
+      aria-controls="primary-nav"
+      aria-label="Toggle menu"
+      (click)="toggleMenu()"
+    >
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+</header>

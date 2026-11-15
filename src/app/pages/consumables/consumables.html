@@ -1,0 +1,101 @@
+<section class="page-hero">
+  <div class="container fade-up">
+    <p class="section-label">Consumables</p>
+    <h1>Chromatography, filtration & HPLC / GC supplies</h1>
+    <p class="page-hero__lead">
+      Lab consumables from Akshara Pharmaa — filtration accessories, HPLC fittings, syringe filters,
+      tubing, and GC/HPLC parts.
+    </p>
+  </div>
+</section>
+
+<section class="section consumables">
+  <div class="container">
+    <div class="toolbar">
+      <label class="search">
+        <span class="sr-only">Search consumables</span>
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="1.8" />
+          <path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" />
+        </svg>
+        <input
+          type="search"
+          placeholder="Search by name or specification…"
+          [value]="search()"
+          (input)="onSearch($any($event.target).value)"
+        />
+      </label>
+
+      <div class="filters" role="tablist" aria-label="Consumable categories">
+        @for (f of filters; track f.key) {
+          <button
+            type="button"
+            class="filter"
+            role="tab"
+            [class.filter--active]="active() === f.key"
+            [attr.aria-selected]="active() === f.key"
+            (click)="setFilter(f.key)"
+          >
+            {{ f.label }}
+          </button>
+        }
+      </div>
+    </div>
+
+    <p class="result-meta">
+      Showing <strong>{{ resultCount() }}</strong>
+      {{ resultCount() === 1 ? 'item' : 'items' }}
+    </p>
+
+    @if (visibleCategories().length) {
+      @for (cat of visibleCategories(); track cat.id) {
+        <section class="catalog-block">
+          <div class="catalog-block__head">
+            <p class="section-label">{{ cat.title }}</p>
+            <h2>{{ cat.summary }}</h2>
+          </div>
+
+          <div class="item-grid">
+            @for (item of itemsFor(cat.id); track item.id) {
+              <article class="item" [class.item--media]="!!item.image">
+                @if (item.image) {
+                  <div class="item__media">
+                    <img [src]="item.image" [alt]="item.name" loading="lazy" />
+                  </div>
+                }
+                <div class="item__body">
+                  <h3>{{ item.name }}</h3>
+                  <p>{{ item.description }}</p>
+                  @if (item.specs?.length) {
+                    <ul>
+                      @for (spec of item.specs; track spec) {
+                        <li>{{ spec }}</li>
+                      }
+                    </ul>
+                  }
+                  <a routerLink="/contact" class="item__cta">Enquire →</a>
+                </div>
+              </article>
+            }
+          </div>
+        </section>
+      }
+    } @else {
+      <div class="empty">
+        <h2>No matching consumables</h2>
+        <p>Try another search term or category, or contact us for a custom requirement.</p>
+        <a routerLink="/contact" class="btn btn-primary">Contact us</a>
+      </div>
+    }
+  </div>
+</section>
+
+<section class="note">
+  <div class="container note__inner">
+    <div>
+      <h2>Need a specific HPLC or filtration part?</h2>
+      <p>Share the part name, size, or instrument model and we’ll help with availability and supply.</p>
+    </div>
+    <a routerLink="/contact" class="btn btn-light">Contact us</a>
+  </div>
+</section>

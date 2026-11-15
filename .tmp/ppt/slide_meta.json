@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "slide": 3,
+      "image": "/images/consumables/catalog-slide-3.jpg",
+      "texts": []
+    },
+    {
+      "slide": 4,
+      "image": "/images/consumables/catalog-slide-4.jpg",
+      "texts": []
+    },
+    {
+      "slide": 5,
+      "image": "/images/consumables/catalog-slide-5.jpg",
+      "texts": []
+    },
+    {
+      "slide": 6,
+      "image": "/images/consumables/catalog-slide-6.jpg",
+      "texts": []
+    },
+    {
+      "slide": 7,
+      "image": "/images/consumables/catalog-slide-7.jpg",
+      "texts": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "filtration",
+      "title": "Filtration Accessories & Consumables",
+      "slide": 3,
+      "image": "/images/consumables/catalog-slide-3.jpg"
+    },
+    {
+      "id": "hplc",
+      "title": "HPLC Consumables",
+      "slide": 4,
+      "image": "/images/consumables/catalog-slide-4.jpg"
+    },
+    {
+      "id": "hplc-fittings",
+      "title": "HPLC Fittings & Accessories",
+      "slide": 5,
+      "image": "/images/consumables/catalog-slide-5.jpg"
+    },
+    {
+      "id": "lab-consumables",
+      "title": "Lab Consumables",
+      "slide": 6,
+      "image": "/images/consumables/catalog-slide-6.jpg"
+    },
+    {
+      "id": "hplc-gc",
+      "title": "HPLC / GC Consumables",
+      "slide": 7,
+      "image": "/images/consumables/catalog-slide-7.jpg"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+<section class="page-hero">
+  <div class="container fade-up">
+    <p class="section-label">About us</p>
+    <h1>Science-led standards for safer medicines</h1>
+    <p class="page-hero__lead">
+      {{ company.name }} develops, synthesizes, and supplies high-quality reference and impurity
+      standards that help laboratories meet regulatory expectations with confidence.
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container about-story">
+    <div class="about-story__visual" aria-hidden="true">
+      <img
+        src="/images/about-lab.jpg"
+        alt=""
+        width="1200"
+        height="900"
+      />
+    </div>
+    <div>
+      <p class="section-label">Our purpose</p>
+      <h2>Built around analytical reliability</h2>
+      <p>{{ company.description }}</p>
+      <p>
+        From nitrosamine risk assessment to pharmacopoeial working standards, we focus on purity,
+        characterization, and documentation that analytical and regulatory teams can use immediately.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="section about-bands">
+  <div class="container bands">
+    <article>
+      <p class="section-label">Core expertise</p>
+      <h2>Nitrosamine impurities</h2>
+      <ul>
+        @for (item of company.nitrosamineExpertise; track item) {
+          <li>{{ item }}</li>
+        }
+      </ul>
+    </article>
+    <article>
+      <p class="section-label">Also offered</p>
+      <h2>Analytical solutions</h2>
+      <ul>
+        @for (item of company.analyticalSolutions; track item) {
+          <li>{{ item }}</li>
+        }
+      </ul>
+    </article>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container credentials">
+    <div>
+      <p class="section-label">Credentials</p>
+      <h2>Quality systems you can verify</h2>
+      <p>
+        We operate with recognized quality and enterprise registrations so procurement and QA teams
+        can onboard us with clarity.
+      </p>
+    </div>
+    <div class="credentials__grid">
+      <div>
+        <span>ISO Certification</span>
+        <strong>{{ company.iso }}</strong>
+      </div>
+      <div>
+        <span>MSME Registration</span>
+        <strong>{{ company.msme }}</strong>
+      </div>
+      <div>
+        <span>GSTIN</span>
+        <strong>{{ company.gstin }}</strong>
+      </div>
+      <div>
+        <span>Location</span>
+        <strong>{{ company.address.line2 }}</strong>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section docs-strip">
+  <div class="container">
+    <p class="section-label">Every supply includes</p>
+    <h2>Complete analytical documentation</h2>
+    <div class="docs-strip__row">
+      @for (doc of company.documentation; track doc.short) {
+        <div>
+          <strong>{{ doc.short }}</strong>
+          <span>{{ doc.title }}</span>
+        </div>
+      }
+    </div>
+    <a routerLink="/contact" class="btn btn-primary">Speak with our team</a>
+  </div>
+</section>

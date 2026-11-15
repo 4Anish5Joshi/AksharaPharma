@@ -1,0 +1,152 @@
+<section class="hero">
+  <div class="hero__media" aria-hidden="true">
+    <img
+      src="/images/hero-lab.jpg"
+      alt=""
+      width="2000"
+      height="1200"
+    />
+    <div class="hero__veil"></div>
+  </div>
+
+  <div class="container hero__content fade-up">
+    <p class="hero__brand">Akshara Pharmaa</p>
+    <h1>{{ company.tagline }}</h1>
+    <p class="hero__lead">
+      High-purity nitrosamine impurities, drug impurity standards, and pharmacopoeial working
+      standards—built for analytical confidence.
+    </p>
+    <div class="hero__actions">
+      <a routerLink="/products" class="btn btn-light">Browse Products</a>
+      <a routerLink="/contact" class="btn btn-ghost hero__ghost">Request a Quote</a>
+    </div>
+  </div>
+</section>
+
+<section class="section trust">
+  <div class="container trust__row">
+    <div class="trust__item">
+      <span>ISO</span>
+      <strong>{{ company.iso }}</strong>
+    </div>
+    <div class="trust__item">
+      <span>MSME</span>
+      <strong>{{ company.msme }}</strong>
+    </div>
+    <div class="trust__item">
+      <span>GSTIN</span>
+      <strong>{{ company.gstin }}</strong>
+    </div>
+  </div>
+</section>
+
+<section class="section intro">
+  <div class="container intro__grid">
+    <div>
+      <p class="section-label">Who we are</p>
+      <h2 class="section-title">Precision reference materials for modern pharma QC</h2>
+    </div>
+    <div>
+      <p class="section-lead">{{ company.description }}</p>
+      <a routerLink="/about" class="text-link">Learn more about us →</a>
+    </div>
+  </div>
+
+  <div class="container highlight-grid">
+    @for (item of highlights; track item.title; let i = $index) {
+      <article class="highlight" [style.animation-delay]="i * 80 + 'ms'">
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.text }}</p>
+      </article>
+    }
+  </div>
+</section>
+
+<section class="section expertise">
+  <div class="container expertise__grid">
+    <div class="expertise__copy">
+      <p class="section-label">Core expertise</p>
+      <h2 class="section-title">Nitrosamine impurities, end to end</h2>
+      <p class="section-lead">
+        With rising global regulatory focus on nitrosamine risk assessment and patient safety, we
+        deliver reference standards that analytical teams can trust.
+      </p>
+      <a routerLink="/products" class="btn btn-primary">Browse full product catalog</a>
+    </div>
+    <ul class="expertise__list">
+      @for (item of company.nitrosamineExpertise; track item) {
+        <li>{{ item }}</li>
+      }
+    </ul>
+  </div>
+</section>
+
+<section class="section solutions">
+  <div class="container">
+    <p class="section-label">Beyond nitrosamines</p>
+    <h2 class="section-title">Analytical & reference material solutions</h2>
+    <div class="solutions__grid">
+      @for (item of company.analyticalSolutions; track item) {
+        <div class="solution">{{ item }}</div>
+      }
+    </div>
+  </div>
+</section>
+
+<section class="section expertise">
+  <div class="container expertise__grid">
+    <div class="expertise__copy">
+      <p class="section-label">Consumables</p>
+      <h2 class="section-title">Filtration, HPLC & GC lab supplies</h2>
+      <p class="section-lead">
+        From membrane filters and syringe filters to PEEK fittings, tubing, column storage, and
+        GC/HPLC parts — browse our consumables catalog.
+      </p>
+      <a routerLink="/consumables" class="btn btn-primary">Explore consumables</a>
+    </div>
+    <ul class="expertise__list">
+      <li>Filtration accessories & membrane filters</li>
+      <li>HPLC syringe filters & column cabinets</li>
+      <li>PEEK fittings, unions, tees & adaptors</li>
+      <li>PEEK tubing, cutters & safety bottle caps</li>
+      <li>HPLC / GC valves, ferrules, nuts & lamps</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section docs">
+  <div class="container">
+    <div class="docs__head">
+      <div>
+        <p class="section-label">Quality assurance</p>
+        <h2 class="section-title">Documentation that travels with every batch</h2>
+      </div>
+      <p class="section-lead">
+        All supplied reference materials include comprehensive analytical documentation for
+        audit-ready use.
+      </p>
+    </div>
+    <div class="docs__grid">
+      @for (doc of company.documentation; track doc.short) {
+        <article class="doc">
+          <span>{{ doc.short }}</span>
+          <h3>{{ doc.title }}</h3>
+          <p>{{ doc.detail }}</p>
+        </article>
+      }
+    </div>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="container cta__inner">
+    <div>
+      <h2>Need a custom impurity or urgent standard?</h2>
+      <p>Talk to our team for synthesis support, documentation, and delivery timelines.</p>
+    </div>
+    <div class="cta__actions">
+      <a [href]="company.phoneHref" class="btn btn-light">{{ company.phone }}</a>
+      <a routerLink="/contact" class="btn btn-ghost hero__ghost">Contact form</a>
+    </div>
+  </div>
+</section>

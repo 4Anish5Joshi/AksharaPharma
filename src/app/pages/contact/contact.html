@@ -1,0 +1,96 @@
+<section class="page-hero">
+  <div class="container fade-up">
+    <p class="section-label">Contact us</p>
+    <h1>Let’s discuss your impurity and standards needs</h1>
+    <p class="page-hero__lead">
+      Reach out for product availability, custom synthesis timelines, documentation requirements, or
+      quotation support.
+    </p>
+  </div>
+</section>
+
+<section class="section contact">
+  <div class="container contact__grid">
+    <aside class="info">
+      <h2>Akshara Pharmaa</h2>
+      <p>We respond promptly to analytical, procurement, and regulatory enquiries.</p>
+
+      <div class="info__block">
+        <span>Phone</span>
+        <a [href]="company.phoneHref">{{ company.phone }}</a>
+        <a [href]="company.phoneAltHref">{{ company.phoneAlt }}</a>
+      </div>
+      <div class="info__block">
+        <span>Email</span>
+        <a [href]="company.emailHref">{{ company.email }}</a>
+      </div>
+      <div class="info__block">
+        <span>Office</span>
+        <p>{{ company.address.line1 }}</p>
+        <p>{{ company.address.line2 }}</p>
+        <p>{{ company.address.line3 }}</p>
+      </div>
+      <div class="info__block">
+        <span>Business details</span>
+        <p>GSTIN: {{ company.gstin }}</p>
+        <p>MSME: {{ company.msme }}</p>
+        <p>{{ company.iso }}</p>
+      </div>
+    </aside>
+
+    <div class="form-wrap">
+      @if (!submitted()) {
+        <form (submit)="submit($event)" novalidate>
+          <div class="form-row">
+            <label>
+              Full name
+              <input name="name" [(ngModel)]="form.name" required autocomplete="name" />
+            </label>
+            <label>
+              Organization
+              <input name="organization" [(ngModel)]="form.organization" autocomplete="organization" />
+            </label>
+          </div>
+          <div class="form-row">
+            <label>
+              Email
+              <input name="email" type="email" [(ngModel)]="form.email" required autocomplete="email" />
+            </label>
+            <label>
+              Phone
+              <input name="phone" type="tel" [(ngModel)]="form.phone" autocomplete="tel" />
+            </label>
+          </div>
+          <label>
+            Interest
+            <select name="interest" [(ngModel)]="form.interest">
+              @for (item of interests; track item) {
+                <option [value]="item">{{ item }}</option>
+              }
+            </select>
+          </label>
+          <label>
+            Message
+            <textarea
+              name="message"
+              rows="5"
+              [(ngModel)]="form.message"
+              placeholder="Share product names, CAS numbers, quantities, or documentation needs…"
+              required
+            ></textarea>
+          </label>
+          <button class="btn btn-primary" type="submit">Send enquiry</button>
+        </form>
+      } @else {
+        <div class="success fade-up">
+          <h2>Thank you</h2>
+          <p>
+            Your enquiry has been captured. For the fastest response, you can also call us directly
+            at <a [href]="company.phoneHref">{{ company.phone }}</a>.
+          </p>
+          <button class="btn btn-ghost" type="button" (click)="resetForm()">Send another message</button>
+        </div>
+      }
+    </div>
+  </div>
+</section>
