@@ -23,6 +23,20 @@ Open `http://localhost:4200/`.
 npm run build
 ```
 
+## GitHub Pages
+
+Live site: https://4anish5joshi.github.io/AksharaPharma/
+
+Push to `main` builds and deploys automatically via GitHub Actions.
+
+In the repo settings → **Pages** → **Source**, choose **GitHub Actions** (not “Deploy from a branch”).
+
+Local GitHub Pages build:
+
+```bash
+npm run build:gh-pages
+```
+
 ## Stack
 
 - Angular 21 (standalone components, lazy routes)
