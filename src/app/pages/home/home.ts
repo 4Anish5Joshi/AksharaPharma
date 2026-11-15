@@ -17,7 +17,7 @@ export class Home {
       text: 'Dedicated portfolio and custom synthesis for global nitrosamine risk assessment.',
     },
     {
-      title: 'Drug Working Standards',
+      title: 'Impurity and Working Standards',
       text: 'Pharmacopoeial working standards aligned to IP, EP, BP, and USP requirements.',
     },
     {

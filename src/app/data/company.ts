@@ -2,7 +2,7 @@ export const COMPANY = {
   name: 'Akshara Pharmaa',
   tagline: 'Impurity standards built for regulatory confidence',
   description:
-    'Akshara Pharmaa specializes in nitrosamine impurities and drug working standards as per IP/EP/BP/USP for the pharmaceutical industry. Our solutions support regulatory compliance, analytical method development, validation, and routine quality control testing.',
+    'Akshara Pharmaa specializes in nitrosamine impurities and impurity / working standards as per IP/EP/BP/USP for the pharmaceutical industry. Our solutions support regulatory compliance, analytical method development, validation, and routine quality control testing.',
   contacts: {
     impurities: {
       label: 'Impurities',
@@ -46,9 +46,9 @@ export const COMPANY = {
       ],
     },
     {
-      title: 'Drug Working Standards as per IP/EP/BP/USP',
+      title: 'Impurity and Working Standards',
       items: [
-        'Working standards aligned to IP, EP, BP, and USP requirements',
+        'Aligned to IP, EP, BP, and USP requirements',
         'Suitable for routine QC testing and method validation',
         'High-purity materials with complete characterization and documentation',
         'Support for pharmacopoeial monograph applications',
@@ -70,6 +70,7 @@ export const COMPANY = {
     { title: 'Certificate of Analysis', short: 'COA', detail: 'Batch-level purity and identity confirmation' },
     { title: 'Mass Spectrometry Data', short: 'MS', detail: 'Structural verification via mass spectra' },
     { title: 'NMR Characterization', short: 'NMR', detail: 'Complete structural elucidation support' },
+    { title: 'Infrared Spectrophotometer', short: 'IR', detail: 'Functional group confirmation via infrared spectra' },
     { title: 'TGA Reports', short: 'TGA', detail: 'Thermal stability and residual content' },
     { title: 'Chromatographic Purity', short: 'HPLC', detail: 'Assay and related-substance profiles' },
   ],
