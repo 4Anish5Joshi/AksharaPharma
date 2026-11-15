@@ -55,14 +55,14 @@ export const CONSUMABLES: ConsumableItem[] = [
     name: 'PP Vacuum Filtration Trap',
     category: 'filtration',
     description: 'Polypropylene vacuum filtration trap for safe solvent and filtrate collection.',
-    image: 'images/consumables/products/s3-p8.png',
+    image: 'images/consumables/products/s3-p8.jpg',
   },
   {
     id: 'glass-vacuum-trap',
     name: 'Glass Vacuum Filtration Trap',
     category: 'filtration',
     description: 'Glass vacuum filtration setup with trap flask for laboratory filtration systems.',
-    image: 'images/consumables/products/s3-p1.png',
+    image: 'images/consumables/products/s3-p1.jpg',
   },
   {
     id: 'ss-support-screen',
@@ -87,35 +87,35 @@ export const CONSUMABLES: ConsumableItem[] = [
     name: 'Media Dispensing Cap',
     category: 'filtration',
     description: 'Dispensing cap with stainless tubes for controlled media transfer.',
-    image: 'images/consumables/products/s3-p2.png',
+    image: 'images/consumables/products/s3-p2.jpg',
   },
   {
     id: 'filtration-cap-gl45',
     name: 'Filtration Cap GL45',
     category: 'filtration',
     description: 'GL45 filtration cap assembly for bottle-top filtration applications.',
-    image: 'images/consumables/products/s3-p9.png',
+    image: 'images/consumables/products/s3-p9.jpg',
   },
   {
     id: 'petri-slide-47',
     name: 'Petri Slide 47mm',
     category: 'filtration',
     description: '47 mm petri slides for membrane filter analysis and microbial testing.',
-    image: 'images/consumables/products/s3-p5.png',
+    image: 'images/consumables/products/s3-p5.jpg',
   },
   {
     id: 'filter-forceps',
     name: 'Filter Forceps',
     category: 'filtration',
     description: 'Forceps for clean handling of membrane filters and filter papers.',
-    image: 'images/consumables/products/s3-p6.png',
+    image: 'images/consumables/products/s3-p6.jpg',
   },
   {
     id: 'sterile-membrane-filter',
     name: 'Sterile Membrane Filter',
     category: 'filtration',
     description: 'Individually packed sterile membrane filters for critical filtration use.',
-    image: 'images/consumables/products/s3-p7.png',
+    image: 'images/consumables/products/s3-p7.jpg',
   },
   {
     id: 'nylon-membrane-filter',
@@ -128,14 +128,14 @@ export const CONSUMABLES: ConsumableItem[] = [
     name: 'Capsule Filter (PES, PVDF)',
     category: 'filtration',
     description: 'Ready-to-use capsule filters available in PES and PVDF media.',
-    image: 'images/consumables/products/s3-p3.png',
+    image: 'images/consumables/products/s3-p3.jpg',
   },
   {
     id: 'cartridge-filter',
     name: 'Cartridge Filter (Ny66, PES, PVDF, PP)',
     category: 'filtration',
     description: 'Pleated cartridge filters in Nylon 66, PES, PVDF, and PP options.',
-    image: 'images/consumables/products/s3-p4.png',
+    image: 'images/consumables/products/s3-p4.jpg',
   },
 
   // Slide 4 — HPLC syringe filters & cabinets
@@ -185,7 +185,7 @@ export const CONSUMABLES: ConsumableItem[] = [
       'CSC-12P: 120 columns (6+6 drawers)',
       'Lock & key available',
     ],
-    image: 'images/consumables/products/s4-p1.png',
+    image: 'images/consumables/products/s4-p1.jpg',
   },
 
   // Slide 5 — PEEK fittings
@@ -243,7 +243,7 @@ export const CONSUMABLES: ConsumableItem[] = [
     category: 'hplc-accessories',
     description: 'SS union for transfer and solvent line connections with low dead volume.',
     specs: ['Easy connection of transfer/solvent lines', 'Low dead volume', 'Inert and biocompatible'],
-    image: 'images/consumables/products/s6-p1.png',
+    image: 'images/consumables/products/s6-p1.jpg',
   },
   {
     id: 'column-end-plugs',
@@ -262,7 +262,7 @@ export const CONSUMABLES: ConsumableItem[] = [
     category: 'hplc-accessories',
     description: 'Safety bottle caps with vent filter for HPLC solvent bottles.',
     specs: ['White Tefzel insert (ETFE)', 'Port size 1/8" with vent'],
-    image: 'images/consumables/products/s6-p2.png',
+    image: 'images/consumables/products/s6-p2.jpg',
   },
   {
     id: 'compression-fittings',
@@ -293,7 +293,7 @@ export const CONSUMABLES: ConsumableItem[] = [
       'Ideal for demanding LC applications',
       'Safety lock for blade',
     ],
-    image: 'images/consumables/products/s6-p3.png',
+    image: 'images/consumables/products/s6-p3.jpg',
   },
 
   // Slide 7 — HPLC/GC
@@ -303,7 +303,7 @@ export const CONSUMABLES: ConsumableItem[] = [
     category: 'hplc-gc',
     description: 'Short purge valve with PTFE frit for Agilent HPLC pumps.',
     specs: ['Fits 1120, 1220, G7110, G7111 pumps', '600 bar max'],
-    image: 'images/consumables/products/s7-p1.png',
+    image: 'images/consumables/products/s7-p1.jpg',
   },
   {
     id: 'gl45-cap-3port',
@@ -316,7 +316,7 @@ export const CONSUMABLES: ConsumableItem[] = [
       'Last drop filter 1/8 × 10 µm SS 316',
       'Tube pack options available',
     ],
-    image: 'images/consumables/products/s7-p2.png',
+    image: 'images/consumables/products/s7-p2.jpg',
   },
   {
     id: 'aluminium-ferrule',
@@ -324,7 +324,7 @@ export const CONSUMABLES: ConsumableItem[] = [
     category: 'hplc-gc',
     description: 'Flexi inert aluminium ferrule for capillary connections.',
     specs: ['0.25 mm', 'Inert flexi ferrule'],
-    image: 'images/consumables/products/s7-p3.png',
+    image: 'images/consumables/products/s7-p3.jpg',
   },
   {
     id: 'capillary-column-nut',
@@ -332,14 +332,14 @@ export const CONSUMABLES: ConsumableItem[] = [
     category: 'hplc-gc',
     description: 'Hexagonal wrench-tight capillary column nut for Agilent injectors (non-MS detectors).',
     specs: ['0.25 mm', 'Pkt / 2/pk'],
-    image: 'images/consumables/products/s7-p4.png',
+    image: 'images/consumables/products/s7-p4.jpg',
   },
   {
     id: 'd2-lamp',
     name: 'D2 Deuterium Lamp',
     category: 'hplc-gc',
     description: 'Deuterium lamp for UV detectors and HPLC optical systems.',
-    image: 'images/consumables/products/s7-p5.png',
+    image: 'images/consumables/products/s7-p5.jpg',
   },
   {
     id: 'capillary-ferrule-nut',
@@ -347,6 +347,6 @@ export const CONSUMABLES: ConsumableItem[] = [
     category: 'hplc-gc',
     description: 'Capillary ferrule nut compatible with Agilent injectors.',
     specs: ['0.8 mm', 'Pkt / 10/pk'],
-    image: 'images/consumables/products/s7-p6.png',
+    image: 'images/consumables/products/s7-p6.jpg',
   },
 ];
