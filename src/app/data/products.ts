@@ -16,8 +16,8 @@ export interface Product {
 
 export const CATEGORY_LABELS: Record<ProductCategory, string> = {
   nitrosamine: 'Nitrosamine Impurities',
-  'drug-impurity': 'Impurity / Reference Standards',
-  'working-standard': 'Working Standards',
+  'drug-impurity': 'Impurity Standards',
+  'working-standard': 'Drug Working Standards (IP/EP/BP/USP)',
   custom: 'Custom Synthesis',
 };
 

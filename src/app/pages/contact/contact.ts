@@ -24,7 +24,10 @@ export class Contact {
   readonly interests = [
     'Nitrosamine Impurities',
     'Drug Impurity Standards',
-    'Working Standards',
+    'Drug Working Standards (IP/EP/BP/USP)',
+    'Analytical Services',
+    'Custom Research Support',
+    'Consumables',
     'Custom Synthesis',
     'General Enquiry',
   ];

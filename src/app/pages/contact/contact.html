@@ -1,7 +1,7 @@
 <section class="page-hero">
   <div class="container fade-up">
     <p class="section-label">Contact us</p>
-    <h1>Let’s discuss your impurity and standards needs</h1>
+    <h1>Let’s discuss your impurity and consumables needs</h1>
     <p class="page-hero__lead">
       Reach out for product availability, custom synthesis timelines, documentation requirements, or
       quotation support.
@@ -16,13 +16,14 @@
       <p>We respond promptly to analytical, procurement, and regulatory enquiries.</p>
 
       <div class="info__block">
-        <span>Phone</span>
-        <a [href]="company.phoneHref">{{ company.phone }}</a>
-        <a [href]="company.phoneAltHref">{{ company.phoneAlt }}</a>
+        <span>Impurities</span>
+        <a [href]="company.contacts.impurities.phoneHref">{{ company.contacts.impurities.phone }}</a>
+        <a [href]="company.contacts.impurities.emailHref">{{ company.contacts.impurities.email }}</a>
       </div>
       <div class="info__block">
-        <span>Email</span>
-        <a [href]="company.emailHref">{{ company.email }}</a>
+        <span>Consumables</span>
+        <a [href]="company.contacts.consumables.phoneHref">{{ company.contacts.consumables.phone }}</a>
+        <a [href]="company.contacts.consumables.emailHref">{{ company.contacts.consumables.email }}</a>
       </div>
       <div class="info__block">
         <span>Office</span>
@@ -33,6 +34,7 @@
       <div class="info__block">
         <span>Business details</span>
         <p>GSTIN: {{ company.gstin }}</p>
+        <p>IEC: {{ company.iec }}</p>
         <p>MSME: {{ company.msme }}</p>
         <p>{{ company.iso }}</p>
       </div>
@@ -85,8 +87,14 @@
         <div class="success fade-up">
           <h2>Thank you</h2>
           <p>
-            Your enquiry has been captured. For the fastest response, you can also call us directly
-            at <a [href]="company.phoneHref">{{ company.phone }}</a>.
+            Your enquiry has been captured. For impurities, call
+            <a [href]="company.contacts.impurities.phoneHref">{{ company.contacts.impurities.phone }}</a>
+            or email
+            <a [href]="company.contacts.impurities.emailHref">{{ company.contacts.impurities.email }}</a>.
+            For consumables, call
+            <a [href]="company.contacts.consumables.phoneHref">{{ company.contacts.consumables.phone }}</a>
+            or email
+            <a [href]="company.contacts.consumables.emailHref">{{ company.contacts.consumables.email }}</a>.
           </p>
           <button class="btn btn-ghost" type="button" (click)="resetForm()">Send another message</button>
         </div>

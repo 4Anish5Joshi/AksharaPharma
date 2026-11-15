@@ -44,6 +44,12 @@
   gap: 1.25rem;
 }
 
+@media (min-width: 1100px) {
+  .bands {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 .bands article {
   background: var(--paper-elevated);
   border: 1px solid var(--line);

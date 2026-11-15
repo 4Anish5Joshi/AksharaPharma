@@ -16,7 +16,7 @@
   font-family: var(--font-display);
   font-size: 1.35rem;
   font-weight: 700;
-  color: #fff;
+  color: var(--gold);
   margin-bottom: 0.5rem;
 }
 
@@ -68,6 +68,24 @@
 .footer__contact li {
   color: rgba(255, 255, 255, 0.72);
   font-size: 0.95rem;
+}
+
+.footer__contact-group {
+  display: grid;
+  gap: 0.35rem;
+  margin-bottom: 0.35rem;
+}
+
+.footer__contact-group a {
+  display: block;
+}
+
+.footer__contact-group strong {
+  color: #fff;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-family: var(--font-display);
 }
 
 .footer__bottom {

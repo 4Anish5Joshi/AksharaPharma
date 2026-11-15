@@ -40,7 +40,7 @@
   font-size: clamp(1.15rem, 2.4vw, 1.55rem);
   font-weight: 700;
   letter-spacing: -0.02em;
-  color: #fff;
+  color: var(--gold);
   margin-bottom: 0.85rem;
 }
 
@@ -84,7 +84,7 @@
 
 .trust__row {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 1px;
   background: var(--line);
   border-radius: var(--radius);
@@ -161,6 +161,50 @@
     linear-gradient(180deg, #e7f2ef 0%, #f3f6f4 100%);
 }
 
+.core-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+}
+
+.core-card {
+  padding: 1.75rem 1.5rem;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.core-card h2 {
+  font-size: 1.35rem;
+  margin-bottom: 1rem;
+}
+
+.core-cta {
+  margin-top: 1.5rem;
+}
+
+.core-card ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.65rem;
+}
+
+.core-card li {
+  position: relative;
+  padding-left: 1.15rem;
+  color: var(--ink-soft);
+  font-size: 0.98rem;
+}
+
+.core-card li::before {
+  content: '▸';
+  position: absolute;
+  left: 0;
+  color: var(--teal);
+}
+
 .expertise__grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -202,6 +246,47 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 0.9rem;
+}
+
+.services-pair {
+  margin-top: 1.5rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.services-pair article {
+  padding: 1.4rem 1.25rem;
+  border-radius: var(--radius);
+  background: var(--paper-elevated);
+  border: 1px solid var(--line);
+}
+
+.services-pair h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.85rem;
+}
+
+.services-pair ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.services-pair li {
+  position: relative;
+  padding-left: 1.1rem;
+  color: var(--ink-soft);
+  font-size: 0.98rem;
+}
+
+.services-pair li::before {
+  content: '▸';
+  position: absolute;
+  left: 0;
+  color: var(--teal);
 }
 
 .solution {
@@ -314,8 +399,14 @@
 @media (max-width: 980px) {
   .intro__grid,
   .expertise__grid,
-  .docs__head {
+  .docs__head,
+  .services-pair,
+  .core-pair {
     grid-template-columns: 1fr;
+  }
+
+  .trust__row {
+    grid-template-columns: 1fr 1fr;
   }
 
   .highlight-grid,

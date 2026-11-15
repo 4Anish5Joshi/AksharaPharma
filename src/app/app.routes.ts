@@ -4,7 +4,7 @@ export const routes: Routes = [
   {
     path: '',
     loadComponent: () => import('./pages/home/home').then((m) => m.Home),
-    title: 'Akshara Pharmaa | Nitrosamine & Reference Standards',
+    title: 'Akshara Pharmaa | Nitrosamine & Working Standards',
   },
   {
     path: 'about',

@@ -13,16 +13,16 @@ export class Home {
 
   readonly highlights = [
     {
-      title: 'Nitrosamine Focus',
+      title: 'Nitrosamine Impurities',
       text: 'Dedicated portfolio and custom synthesis for global nitrosamine risk assessment.',
     },
     {
-      title: 'Full Documentation',
-      text: 'Every material ships with COA, MS, NMR, TGA, and chromatographic purity data.',
+      title: 'Drug Working Standards',
+      text: 'Pharmacopoeial working standards aligned to IP, EP, BP, and USP requirements.',
     },
     {
-      title: 'Regulatory Ready',
-      text: 'Reference materials designed for method development, validation, and QC release.',
+      title: 'Export Ready',
+      text: `IEC registered (${COMPANY.iec}) for international supply of impurity and working standards.`,
     },
   ];
 }

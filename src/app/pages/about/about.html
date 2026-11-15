@@ -1,10 +1,10 @@
 <section class="page-hero">
   <div class="container fade-up">
     <p class="section-label">About us</p>
-    <h1>Science-led standards for safer medicines</h1>
+    <h1>Science-led impurity & working standards</h1>
     <p class="page-hero__lead">
-      {{ company.name }} develops, synthesizes, and supplies high-quality reference and impurity
-      standards that help laboratories meet regulatory expectations with confidence.
+      {{ company.name }} develops, synthesizes, and supplies nitrosamine impurities and drug working
+      standards as per IP/EP/BP/USP that help laboratories meet regulatory expectations with confidence.
     </p>
   </div>
 </section>
@@ -26,6 +26,8 @@
       <p>
         From nitrosamine risk assessment to pharmacopoeial working standards, we focus on purity,
         characterization, and documentation that analytical and regulatory teams can use immediately.
+        We export our products internationally and hold IEC registration
+        <strong>{{ company.iec }}</strong>.
       </p>
     </div>
   </div>
@@ -33,20 +35,31 @@
 
 <section class="section about-bands">
   <div class="container bands">
+    @for (area of company.coreExpertise; track area.title) {
+      <article>
+        <p class="section-label">Core expertise</p>
+        <h2>{{ area.title }}</h2>
+        <ul>
+          @for (item of area.items; track item) {
+            <li>{{ item }}</li>
+          }
+        </ul>
+      </article>
+    }
     <article>
-      <p class="section-label">Core expertise</p>
-      <h2>Nitrosamine impurities</h2>
+      <p class="section-label">Also offered</p>
+      <h2>Analytical Services</h2>
       <ul>
-        @for (item of company.nitrosamineExpertise; track item) {
+        @for (item of company.analyticalServices; track item) {
           <li>{{ item }}</li>
         }
       </ul>
     </article>
     <article>
       <p class="section-label">Also offered</p>
-      <h2>Analytical solutions</h2>
+      <h2>Custom Research Support</h2>
       <ul>
-        @for (item of company.analyticalSolutions; track item) {
+        @for (item of company.customResearchSupport; track item) {
           <li>{{ item }}</li>
         }
       </ul>
@@ -61,7 +74,8 @@
       <h2>Quality systems you can verify</h2>
       <p>
         We operate with recognized quality and enterprise registrations so procurement and QA teams
-        can onboard us with clarity.
+        can onboard us with clarity. As an exporting company, we hold IEC
+        <strong>{{ company.iec }}</strong> for international trade compliance.
       </p>
     </div>
     <div class="credentials__grid">
@@ -76,6 +90,10 @@
       <div>
         <span>GSTIN</span>
         <strong>{{ company.gstin }}</strong>
+      </div>
+      <div>
+        <span>IEC (Export)</span>
+        <strong>{{ company.iec }}</strong>
       </div>
       <div>
         <span>Location</span>

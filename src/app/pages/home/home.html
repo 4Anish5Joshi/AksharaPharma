@@ -13,8 +13,8 @@
     <p class="hero__brand">Akshara Pharmaa</p>
     <h1>{{ company.tagline }}</h1>
     <p class="hero__lead">
-      High-purity nitrosamine impurities, drug impurity standards, and pharmacopoeial working
-      standards—built for analytical confidence.
+      High-purity nitrosamine impurities and drug working standards as per IP/EP/BP/USP—built for
+      analytical confidence.
     </p>
     <div class="hero__actions">
       <a routerLink="/products" class="btn btn-light">Browse Products</a>
@@ -37,6 +37,10 @@
       <span>GSTIN</span>
       <strong>{{ company.gstin }}</strong>
     </div>
+    <div class="trust__item">
+      <span>IEC (Export)</span>
+      <strong>{{ company.iec }}</strong>
+    </div>
   </div>
 </section>
 
@@ -44,10 +48,14 @@
   <div class="container intro__grid">
     <div>
       <p class="section-label">Who we are</p>
-      <h2 class="section-title">Precision reference materials for modern pharma QC</h2>
+      <h2 class="section-title">Precision impurity standards for modern pharma QC</h2>
     </div>
     <div>
       <p class="section-lead">{{ company.description }}</p>
+      <p class="section-lead">
+        We also export globally and are registered with IEC
+        <strong>{{ company.iec }}</strong>.
+      </p>
       <a routerLink="/about" class="text-link">Learn more about us →</a>
     </div>
   </div>
@@ -63,32 +71,45 @@
 </section>
 
 <section class="section expertise">
-  <div class="container expertise__grid">
-    <div class="expertise__copy">
-      <p class="section-label">Core expertise</p>
-      <h2 class="section-title">Nitrosamine impurities, end to end</h2>
-      <p class="section-lead">
-        With rising global regulatory focus on nitrosamine risk assessment and patient safety, we
-        deliver reference standards that analytical teams can trust.
-      </p>
-      <a routerLink="/products" class="btn btn-primary">Browse full product catalog</a>
-    </div>
-    <ul class="expertise__list">
-      @for (item of company.nitrosamineExpertise; track item) {
-        <li>{{ item }}</li>
-      }
-    </ul>
+  <div class="container core-pair">
+    @for (area of company.coreExpertise; track area.title) {
+      <article class="core-card">
+        <p class="section-label">Core expertise</p>
+        <h2>{{ area.title }}</h2>
+        <ul>
+          @for (item of area.items; track item) {
+            <li>{{ item }}</li>
+          }
+        </ul>
+      </article>
+    }
+  </div>
+  <div class="container core-cta">
+    <a routerLink="/products" class="btn btn-primary">Browse full product catalog</a>
   </div>
 </section>
 
 <section class="section solutions">
   <div class="container">
-    <p class="section-label">Beyond nitrosamines</p>
-    <h2 class="section-title">Analytical & reference material solutions</h2>
-    <div class="solutions__grid">
-      @for (item of company.analyticalSolutions; track item) {
-        <div class="solution">{{ item }}</div>
-      }
+    <p class="section-label">Also offered</p>
+    <h2 class="section-title">Analytical services & research support</h2>
+    <div class="services-pair">
+      <article>
+        <h3>Analytical Services</h3>
+        <ul>
+          @for (item of company.analyticalServices; track item) {
+            <li>{{ item }}</li>
+          }
+        </ul>
+      </article>
+      <article>
+        <h3>Custom Research Support</h3>
+        <ul>
+          @for (item of company.customResearchSupport; track item) {
+            <li>{{ item }}</li>
+          }
+        </ul>
+      </article>
     </div>
   </div>
 </section>
@@ -122,7 +143,7 @@
         <h2 class="section-title">Documentation that travels with every batch</h2>
       </div>
       <p class="section-lead">
-        All supplied reference materials include comprehensive analytical documentation for
+        All supplied impurity standards include comprehensive analytical documentation for
         audit-ready use.
       </p>
     </div>

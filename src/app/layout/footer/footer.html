@@ -6,6 +6,7 @@
       <div class="footer__badges">
         <span>{{ company.iso }}</span>
         <span>MSME Registered</span>
+        <span>IEC {{ company.iec }}</span>
       </div>
     </div>
 
@@ -23,13 +24,21 @@
     <div>
       <h4>Contact</h4>
       <ul class="footer__contact">
-        <li><a [href]="company.phoneHref">{{ company.phone }}</a></li>
-        <li><a [href]="company.phoneAltHref">{{ company.phoneAlt }}</a></li>
-        <li><a [href]="company.emailHref">{{ company.email }}</a></li>
+        <li class="footer__contact-group">
+          <strong>Impurities</strong>
+          <a [href]="company.contacts.impurities.phoneHref">{{ company.contacts.impurities.phone }}</a>
+          <a [href]="company.contacts.impurities.emailHref">{{ company.contacts.impurities.email }}</a>
+        </li>
+        <li class="footer__contact-group">
+          <strong>Consumables</strong>
+          <a [href]="company.contacts.consumables.phoneHref">{{ company.contacts.consumables.phone }}</a>
+          <a [href]="company.contacts.consumables.emailHref">{{ company.contacts.consumables.email }}</a>
+        </li>
         <li>{{ company.address.line1 }}</li>
         <li>{{ company.address.line2 }}</li>
         <li>{{ company.address.line3 }}</li>
         <li>GSTIN: {{ company.gstin }}</li>
+        <li>IEC: {{ company.iec }}</li>
       </ul>
     </div>
   </div>
