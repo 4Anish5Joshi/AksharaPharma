@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = "dist/akshara-pharma/browser"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Angular SPA: send all routes to index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
